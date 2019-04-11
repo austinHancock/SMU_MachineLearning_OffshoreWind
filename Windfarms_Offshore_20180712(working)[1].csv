@@ -1,0 +1,725 @@
+ID ( = no data),Continent,ISO code (Code ISO 3166.1),Country,State code,Area,City,Name,2nd name,Latitude (WGS84),Longitude (WGS84),Altitude/Depth (m),Location accuracy (Yes = accurate location),Offshore - Shore distance (km),Manufacturer,Turbine,Hub height (m),Number of turbines,Total power (kW),Developer,Operator,Owner,Commissioning date (Format: yyyy or yyyymm),Status,Update
+428,Europe,BE,Belgium,,Offshore,,Thorntonbank,Part 1,51.54,2.94,-15,No,Yes (27 km),Repower,5M,94,6,30450,EDF-EN/C-Power NV,C-Power NV,DEME/EDF-EN/Socofe/Nuhma/RWE/,2008/07,Production,25/06/2018
+729,Europe,DK,Denmark,,Offshore,,Middelgrunden,,55.691,12.669,-5,Yes,Yes (5 km),Bonus,B76/2000,64,20,40000,Orsted,Orsted/Middelgrundens Vindmollelaug,Orsted/Middelgrundens Vindmollelaug,2000/12,Production,28/06/2018
+759,Europe,FI,Finland,,Offshore,,Ajos 1,,65.6584267113501,24.5603564666564,0,Yes,Yes,Winwind,WWD-3-90,90,1,3000,Haminan Energia Oy,Haminan Energia Oy,Haminan Energia Oy,2005/12,Production,12/6/2018
+760,Europe,FI,Finland,,Offshore,,Ajos 5,,65.650284,24.56292,0,Yes,Yes,Winwind,WWD-3-100,88,0,0,PVO Innopower Oy,,,2007/10,Dismantled,12/6/2018
+1069,Europe,SE,Sweden,,Offshore,,Utgrunden I,,56.344,16.28,-4,Yes,Yes (5 km),GE Energy,1.5s,65,7,10500,Vattenfall/Orsted/OX2,Vattenfall,Vattenfall,2006/10,Production,15/01/2018
+1070,Europe,SE,Sweden,,Offshore,,Yttre Stengrund 2-3-4,,56.1671453,16.193429,-36,Yes,Yes (3 km),Neg Micon,NM72/2000,60,0,0,Vattenfall/OX2,,,2001/08,Dismantled,15/01/2018
+1125,Europe,SE,Sweden,,Offshore,,Lillgrund,,55.508569,12.7626971,-10,Yes,Yes (11 km),Siemens,SWT-2.3-93,69,15,34500,Vattenfall,Vattenfall,Vattenfall,2007/10,Production,15/01/2018
+1145,Europe,DK,Denmark,,Offshore,,Nysted,,54.549,11.714,-8,No,Yes (11 km),Bonus,B82/2300,69,72,165600,Orsted,Orsted,Orsted/Stadtwerke Lübeck GmbH/PensionDanmark,2003/11,Production,23/05/2018
+1160,Europe,DK,Denmark,,Offshore,,Tuno Knob,,55.97,10.36,-5,Yes,Yes (5 km),Vestas,V39/500,45,10,5000,Orsted,SE Blue Renewables,SE Blue Renewables,1995/05,Production,14/06/2018
+1195,Europe,DK,Denmark,,Offshore,,Horns Rev 1,,55.486,7.84,-10,No,Yes (18 km),Vestas,V80/2000,70,80,160000,Vattenfall,Vattenfall,Vattenfall/Orsted,2002/12,Production,29/06/2018
+1322,Europe,ES,Spain,,Offshore,,Canary Island Test Area,,,,,No,Yes,,,,,310000,Gobierno de Canarias,,Gobierno de Canarias,,Planned,24/05/2018
+1327,Europe,ES,Spain,,Offshore,,BALEA,,,,,No,Yes,,,,,26000,Plocan,Plocan,Plocan,,Planned,19/01/2018
+1503,Europe,GB,United-Kingdom,,Offshore,,Barrow,,54.255200648819,-3.26019287109375,-15,No,Yes (10 km),Vestas,V90/3000 Offshore,75,30,90000,Orsted/Centrica,Barrow Offshore Wind Ltd,Orsted,2006/07,Production,16/02/2018
+1504,Europe,GB,United-Kingdom,,Offshore,,Kentish Flats,,51.46,1.93,-38,No,Yes,Vestas,V90/3000 Offshore,70,30,90000,Vattenfall,Vattenfall,Vattenfall,2005/10,Production,16/02/2018
+1506,Europe,GB,United-Kingdom,,Offshore,,Scroby Sands,,52.645,1.787,-10,No,Yes (3 km),Vestas,V80/2000,60,30,60000,E.ON Climate Renewables,E.ON Climate Renewables,E.ON Climate Renewables,2004/03,Production,16/02/2018
+1507,Europe,GB,United-Kingdom,,Offshore,,Burbo Bank,,53.488,-3.187,-5,No,Yes (7 km),Siemens,SWT-3.6-107,84,25,90000,WPO/Orsted,Orsted,Orsted,2007/10,Production,16/02/2018
+1574,Europe,GB,United-Kingdom,,Offshore,,London Array,,51.626,1.496,-25,Yes,Yes (22 km),Siemens,SWT-3.6-107,87,175,630000,Orsted/E.ON Climate Renewables/Masdar,Orsted/E.ON Climate Renewables,Orsted/Caisse de dépôt et placement du Québec/E.ON Climate Renewables/Masdar,2013/07,Production,22/05/2018
+1601,Europe,GB,United-Kingdom,,Offshore,,Gunfleet Sands 1,,51.7372345464578,1.1700439453125,-10,No,Yes (7 km),Siemens,SWT-3.6-107,75,30,108000,Orsted,Orsted,Orsted/Marubeni/Development Bank of Japan,2010/04,Production,16/02/2018
+1615,Europe,GB,United-Kingdom,,Offshore,,Greater Gabbard 1,,51.9510366450959,1.8896484375,-23,No,Yes (34 km),Siemens,SWT-3.6-107,78,80,288000,Airtricity/WPO,Scottish & Southern,Scottish & Southern/RWE,2012/09,Production,14/03/2018
+1623,Europe,GB,United-Kingdom,,Offshore,,Thanet,,51.43,1.633,-20,No,Yes (15 km),Vestas,V90/3000 Offshore,70,100,300000,Vattenfall,Vattenfall,Vattenfall,2010/09,Production,16/02/2018
+1629,Europe,GB,United-Kingdom,,Offshore,,Ormonde,,54.88,-3.437,-20,No,Yes (10 km),Repower,5M,97,30,150000,Vattenfall,Vattenfall,Vattenfall/AMF,2012/02,Production,16/02/2018
+1741,Europe,IE,Ireland,,Offshore,,Arklow Bank,Phase 1,52.789,-5.949,-10,No,Yes (10 km),GE Energy,3.6sl,74,7,25200,GE Wind Energy/Acciona Energia,GE Wind Energy,Airtricity/GE Wind Energy,2003/11,Production,10/1/2018
+1866,Europe,NL,Netherlands,,Offshore,,Egmond aan Zee,Noordzeewind,52.606,4.419,-18,No,Yes (14 km),Vestas,V90/3000,70,36,108000,Vattenfall/Noordzee Wind,Vattenfall/Shell Wind Energy/Noordzee Wind,Vattenfall/Shell Wind Energy,2006/10,Production,26/03/2018
+2866,Europe,IE,Ireland,,Offshore,,Codling,,53.1,-5.78,-12,No,Yes (15 km),,,,220,1100000,Codling Wind Farm,,Fred Olsen Renewables/Hazel Shore Limited,,Approved,5/6/2018
+2875,Europe,IE,Ireland,,Offshore,,Codling Extension,,53.4,-5.78,-15,No,Yes (15 km),,,,200,1000000,Codling Wind Farm,,Fred Olsen Renewables/,,Planned,5/6/2018
+2886,Europe,IE,Ireland,,Offshore,,Floating Power Plant Ireland,,,,,No,Yes,,,,,224000,,,,,Planned,10/1/2018
+3325,Europe,DE,Germany,,Offshore,,Breitling,,54.16,12.13,0,Yes,Yes,Nordex,N90/2500,80,1,2500,Nordex/WPD,WPD,WPD,2006/02,Production,13/02/2018
+3326,Europe,NL,Netherlands,,Offshore,,Prinses Amalia,Q7,52.5903503,4.2229225,-20,No,Yes (25 km),Vestas,V80/2000,59,60,120000,,Eneco,Eneco,2008/03,Production,13/06/2018
+3327,Europe,NL,Netherlands,,Offshore,,Lely,Ijsselmeer,52.8,5.12,-4,Yes,Yes (1 km),NedWind,40/500,39,0,0,Vattenfall,,,1997,Dismantled,26/03/2018
+3328,Europe,NL,Netherlands,,Offshore,,Irene Vorrink I,H.v.d.Kroonenberg,52.598,5.588,-3,Yes,Yes,Nordtank,NTK600/43,,19,11400,De Wolff/Vattenfall,Vattenfall,Vattenfall,1996/08,Production,21/03/2018
+4205,Europe,SE,Sweden,,Offshore,,Langgrund II,,58.51,17.34,-23,No,Yes,,,,,,,,,,Planned,5/3/2018
+4813,Europe,FI,Finland,,Offshore,,Ajos 2-3,,65.666667,24.5,-1,Yes,Yes,Winwind,WWD-3-100,88,0,0,PVO Innopower Oy,,,2008/01,Dismantled,12/6/2018
+4814,Europe,FI,Finland,,Offshore,,Ajos 6-7,,65.6584345999999,24.5514826999999,2,Yes,Yes,Winwind,WWD-3-100,88,0,0,PVO Innopower Oy,,,2008/02,Dismantled,12/6/2018
+6329,Europe,SE,Sweden,,Offshore,,Utposten II,,61.8,17.5,-47,No,Yes (18 km),,,,,,,,,,Planned,15/01/2018
+6353,Europe,GB,United-Kingdom,,Offshore,,Teesside,,54.6476179190564,-1.11648559570312,-10,No,Yes (2 km),Siemens,SWT-2.3-93,80,27,62100,EDF-EN,EDF-EN,EDF-EN,2013/08,Production,16/02/2018
+6754,Europe,ES,Spain,,Offshore,,Esdras Canarias,,27.8,-15.4,-50,No,Yes (2 km),,,,,10000,Plocan,Plocan,Plocan,,Planned,19/01/2018
+7064,Europe,DK,Denmark,,Offshore,,Horns Rev 2,,55.6,7.582,-10,No,Yes (32 km),Siemens,SWT-2.3-93,68,91,209300,Orsted,Orsted,Orsted,2009/09,Production,29/06/2018
+7105,Europe,DE,Germany,,Offshore,,Bard Offshore 1,,54.355,5.98,-40,No,Yes (100 km),Bard,VM,90,80,400000,Bard,Offshore Wind Solutions,Ocean Breeze Energy GmbH,2013/08,Production,13/02/2018
+7106,Europe,DE,Germany,,Offshore,,Alpha Ventus,Borkum-Riffgat,53.9091921985205,6.6192626953125,-35,No,Yes (45 km),Areva,M5000-116,92,6,30000,Doti,EWE/E.ON Climate Renewables/Areva,EWE/E.ON Climate Renewables/Vattenfall,2009/12,Production,13/02/2018
+7107,Europe,GB,United-Kingdom,,Offshore,,Greater Gabbard 2,,51.801821500783,1.8896484375,-22,No,Yes (34 km),Siemens,SWT-3.6-107,78,60,216000,Airtricity/WPO,Scottish & Southern,Scottish & Southern/RWE,2012/09,Production,14/03/2018
+7108,Europe,DK,Denmark,,Offshore,,Rønland,,56.6612167,8.2209009,0,Yes,Yes (0.1 km),Vestas,V80/2000,78,4,8000,Thyboren-Harboöre Vindmöllelaug,Thyboren-Harboöre Vindmöllelaug,Thyboren-Harboöre Vindmöllelaug,2003/01,Production,25/06/2018
+7141,Europe,BE,Belgium,,Offshore,,Belwind I,Bligh Bank I,51.67,2.8,-25,No,Yes (46 km),Vestas,V90/3000 Offshore,72,55,165000,Belwind,Electrabel/Belwind,Parkwind NV,2010/12,Production,12/1/2018
+7277,Europe,DE,Germany,,Offshore,,Gode Wind I,,54.16,6.983,-30,No,Yes (41 km),Siemens,SWT-6.0-154,,55,330000,PNE/Orsted,Orsted,Orsted/PKA/,2017/07,Production,13/02/2018
+7279,Asia,IN,India,,Offshore,,Tamil Nadu Energy Development Agency,,9.1,79.,,No,Yes,,,,,200000,,,,,Planned,18/06/2018
+7282,Europe,FR,France,,Offshore,,Fécamp Offshore,Hautes Falaises,45.981248464556,0.45380283834983,-30,No,Yes (15 km),GE Energy,Haliade 150,100,83,498000,Eolien Maritime France,,EDF-EN/Enbridge/WPD,,Planned,18/05/2018
+7385,Europe,GB,United-Kingdom,,Offshore,,Gunfleet Sands 2,,51.7372345464578,1.1700439453125,-10,No,Yes (7 km),Siemens,SWT-3.6-107,75,18,64800,Orsted,Orsted,Orsted/Marubeni/Development Bank of Japan,2010/04,Production,16/02/2018
+7386,Asia,CN,China,,Offshore,,Hong Kong Offshore Wind Farm,,22.27,114.42,-25,No,Yes (11 km),,,80,67,201000,WPO/CLP Group,,,,Approved,22/02/2018
+7387,Europe,BE,Belgium,,Offshore,,Belwind II,Bligh Bank II - Nobelwind,51.66,2.82,-25,No,Yes (42 km),MHI Vestas Offshore,V112/3300,72,50,165000,Belwind/Parkwind NV,Electrabel,Parkwind NV/Meewind/Sumitomo,2017/05,Production,12/1/2018
+7388,Europe,GB,United-Kingdom,,Offshore,,Blyth,,55.1317895830221,-1.461181640625,-8,No,Yes (1 km),Vestas,V66/2000,62,0,0,E.ON Climate Renewables/Vattenfall/Shell Wind Energy/Orkney Sustainable Energy,,,2000/12,Dismantled,16/02/2018
+7389,Europe,GB,United-Kingdom,,Offshore,,Gwynt y Mor,,53.46,-3.599,-20,No,Yes (17 km),Siemens,SWT-3.6-107,98,160,576000,RWE/Siemens,RWE,RWE/Siemens/Green Investment Bank/Stadtwerke München,2014/11,Production,16/02/2018
+7390,Europe,GB,United-Kingdom,,Offshore,,Lynn and Inner Dowsing,,53.1566530531579,0.4119873046875,-4,No,Yes,Siemens,SWT-3.6-107,85,54,194400,Centrica/RES,Siemens,Green Investment Bank/BlackRock Infrastructure Investment Group,2009/03,Production,16/02/2018
+7391,Europe,GB,United-Kingdom,,Offshore,,North Hoyle,,53.417,-3.448,-9,No,Yes,Vestas,V80/2000,67,30,60000,RWE,RWE,Greencoat UK Wind,2003/12,Production,16/02/2018
+7392,Europe,GB,United-Kingdom,,Offshore,,Robin Rigg,,54.756,-3.71,-9,No,Yes (11 km),Vestas,V90/3000 Offshore,80,58,174000,E.ON Climate Renewables,E.ON Climate Renewables,E.ON Climate Renewables,2010/04,Production,16/02/2018
+7393,Europe,DK,Denmark,,Offshore,,Rønland,,56.6612167,8.2209009,0,Yes,Yes (0.1 km),Bonus,B82/2300,79,4,9200,Dansk Vindenergi,Dansk Vindenergi,Dansk Vindenergi,2003/01,Production,25/06/2018
+7394,Europe,GB,United-Kingdom,,Offshore,,Sheringham Shoal,,53.135,1.147,-20,No,Yes (22 km),Siemens,SWT-3.6-107,82,88,316800,Statoil/WPO,Statkraft,Statoil/Green Investment Bank/Trig/Equitix,2012/09,Production,16/02/2018
+7395,Europe,GB,United-Kingdom,,Offshore,,Walney,Phase 2,54.81,-3.605,-95,No,Yes,Siemens,SWT-3.6-107,90,51,183600,Orsted/Scottish & Southern,Orsted,Orsted/Scottish & Southern/Ampere Equity Fund/PGGM,2012/04,Production,16/02/2018
+7396,Europe,GB,United-Kingdom,,Offshore,,West of Duddon Sands,,53.984,-3.464,-20,No,Yes (15 km),Siemens,SWT-3.6-120,,108,388800,Scottish Power/Orsted,Orsted,Scottish Power/Orsted,2014/10,Production,16/02/2018
+7399,Europe,DK,Denmark,,Offshore,,Samso,,55.72,10.58,-12,No,Yes (4 km),Bonus,B82/2300,61,10,23000,Samsoe Havwind,Samsoe Havwind,Municipality of Samsø/Difko AS/Paludans Flak,2003/12,Production,23/05/2018
+7400,Europe,DK,Denmark,,Offshore,,Rodsand II,Nysted II,54.5583685,11.5306918,-8,Yes,Yes (9 km),Siemens,SWT-2.3-93,69,90,207000,E.ON Climate Renewables,E.ON Climate Renewables,E.ON Climate Renewables/SEAS NVE,2010/10,Production,25/06/2018
+7404,Europe,IE,Ireland,,Offshore,,Oriel Wind Farm,,53.92,-6.6,-20,No,Yes (8 km),,,100,55,330000,Oriel Wind Farm,Oriel Wind Farm,Oriel Wind Farm/Parkwind NV,,Planned,23/05/2018
+7947,Europe,DE,Germany,,Offshore,,Alpha Ventus,Borkum-Riffgat,53.9091921985205,6.6192626953125,-35,No,Yes (55 km),Repower,5M,92,6,30000,Doti,EWE/E.ON Climate Renewables,EWE/E.ON Climate Renewables/Vattenfall,2009/12,Production,13/02/2018
+8207,Europe,DK,Denmark,,Offshore,,Sprogo,Store Baelt,55.343781,10.9604482,-10,Yes,Yes (10 km),Vestas,V90/3000 Offshore,80,7,21000,A2 Sea/Sund & Baelt,European Energy,European Energy,2009/10,Production,18/06/2018
+8209,Europe,SE,Sweden,,Offshore,,Yttre Stengrund 1,,56.1671453,16.193429,-36,Yes,Yes (3 km),Neg Micon,NM72/2000,60,0,0,Vattenfall/OX2,,,2001/07,Dismantled,15/01/2018
+9648,Europe,DE,Germany,,Offshore,,Butendiek,,55.19,7.774,-20,No,Yes (32 km),Siemens,SWT-3.6-107,90,80,288000,WPD,WPD,Siemens/Elektrizitätswerke Zürich/WPD/,2015/08,Production,13/02/2018
+10015,Asia,IN,India,,Offshore,,Gujarat - Greenshore,,21.6,69.5,-28,No,Yes,,,,,600000,Greenshore Energy Pvt Ltd,,Greenshore Energy Pvt Ltd,,Planned,18/06/2018
+10021,Europe,DE,Germany,,Offshore,,Nordsee Ost,,54.444,7.682,-25,No,Yes (55 km),Senvion,6M126,90,48,295200,RWE,RWE,RWE,2015/03,Production,13/02/2018
+10094,Europe,EE,Estonia,,Offshore,,Loode-Eesti Meretuulepark,Hiiumaa,59.15,22.5,-73,Yes,Yes (15 km),,,,200,1100000,Nelja Energia,Nelja Energia,Nelja Energia,,Planned,28/05/2018
+10279,Europe,IE,Ireland,,Offshore,,Gaelectric Foreshore Test Sites,,53.748,-5.952,-40,No,Yes (19 km),XEMC-Darwind,XE/DD115,,3,15000,Gaelectric,,,,Planned,10/1/2018
+10285,America,US,USA,,Offshore,,New England Aqua Ventus I,,43.72,-69.32,-96,No,Yes,,,,2,12000,,,,,Planned,14/02/2018
+10286,Europe,DE,Germany,,Offshore,,Amrumbank West,,54.52,7.708,-25,No,Yes (40 km),Siemens,SWT-3.6-120,90,80,302000,E.ON Climate Renewables,E.ON Climate Renewables,E.ON Climate Renewables,2015/10,Production,13/02/2018
+10287,Europe,DE,Germany,,Offshore,,Arkonabecken Südost,Arkona,54.78,14.12,-25,No,Yes (35 km),Siemens,SWT-6.0-154,102,60,384000,AWE Arkona-Windpark Entwicklungsgesellschaft,E.ON Climate Renewables/Statoil,E.ON Climate Renewables/Statoil,,Construction,22/05/2018
+10288,Europe,IT,Italy,,Offshore,,Taranto,,40.485,17.137,-9,No,Yes (3 km),Senvion,,,15,30000,Beleolico,,Beleolico,,Approved,18/06/2018
+10293,Asia,CN,China,,Offshore,,GD Lubei No.1 offshore wind farm,,38.4,117.8,-1,No,Yes,,,,,300000,China Guodian,,China Guodian,,Planned,24/05/2018
+10294,Europe,DE,Germany,,Offshore,,Deutsche Bucht,,54.305,5.799,-40,No,Yes (100 km),MHI Vestas Offshore,V164/8000,90,31,248000,Northland Power,,Northland Power,,Approved,13/02/2018
+10295,Europe,DE,Germany,,Offshore,,Borkum-Riffgrund West II,,54.57,6.148,-30,No,Yes (75 km),,,,16,240000,Energiekontor/Orsted,,Orsted,,Planned,13/02/2018
+10296,Europe,DE,Germany,,Offshore,,Trianel Windpark Borkum - phase 1,,54.46,6.457,-30,No,Yes (55 km),Areva,M5000-116,90,40,200000,Trianel GmbH,Trianel GmbH,Trianel GmbH,2015/09,Production,13/02/2018
+10297,Europe,DE,Germany,,Offshore,,Merkur Offshore,MEG Offshore I,54.38,6.555,-30,No,Yes (60 km),GE Energy,Haliade 150,103,66,396000,Infrared Capital,GE Wind Energy,GE Wind Energy/Partners Group/Infrared Capital/,,Construction,7/6/2018
+10299,Europe,SE,Sweden,,Offshore,,Lillgrund,,55.508569,12.7626971,-10,Yes,Yes (11 km),Siemens,SWT-2.3-93,69,21,48300,Vattenfall,Vattenfall,Vattenfall,2007/11,Production,15/01/2018
+10307,Europe,SE,Sweden,,Offshore,,Lillgrund,,55.508569,12.7626971,-10,Yes,Yes (11 km),Siemens,SWT-2.3-93,69,12,27600,Vattenfall,Vattenfall,Vattenfall,2007/12,Production,15/01/2018
+10313,Europe,SE,Sweden,,Offshore,,Bockstigen Offshore,,57.36,18.15,-7,Yes,Yes (5 km),Wind World,,42,5,2750,OX2,Momentum Gruppen,Momentum Gruppen,1998/03,Production,15/01/2018
+10320,Europe,SE,Sweden,,Offshore,,Vänern,Gasslingegrund Offshore,59.2648624,13.3783201,44,Yes,Yes,Winwind,WWD-3-100,90,7,21000,Windpark Vanern,Windpark Vanern/,,2009/10,Production,15/01/2018
+10345,Europe,DE,Germany,,Offshore,,Delta Nordsee 1,,54.37,6.765,-36,No,Yes,,,,35,210000,Enova,E.ON Climate Renewables,,,Approved,13/02/2018
+10346,Europe,DE,Germany,,Offshore,,Delta Nordsee 2,,54.4,6.779,-34,No,Yes,,,,32,160000,Enova,E.ON Climate Renewables,,,Approved,13/02/2018
+10348,Europe,DE,Germany,,Offshore,,Global Tech I,,54.2620157591794,6.4105224609375,-40,No,Yes (110 km),Areva,M5000-116,90,80,400000,Nordsee Windpower,Global Tech I Offshore Wind GmbH,Stadtwerke München/ENTEGA AG/Axpo/,2015/09,Production,13/02/2018
+10349,Europe,DE,Germany,,Offshore,,Gode Wind II,,54.75,7.7,-30,No,Yes (45 km),Siemens,SWT-6.0-154,,42,252000,PNE/Orsted,Orsted,Orsted/PKA/,2017/07,Production,13/02/2018
+10350,Europe,DE,Germany,,Offshore,,Hooksiel,,53.637,8.104,-5,Yes,Yes (3 km),Bard,VM,90,0,0,Bard,,,2008/10,Dismantled,13/02/2018
+10352,Europe,DE,Germany,,Offshore,,Dan Tysk,,55.91263700103,7.2344970703125,-25,No,Yes (70 km),Siemens,SWT-3.6-120,88,80,288000,GEO Gesellscahft für Energie und Oekologie,Vattenfall,Vattenfall/Stadtwerke München,2014/08,Production,13/02/2018
+10353,Europe,DE,Germany,,Offshore,,Veja Mate,,54.1785117881813,6.141357421875,-40,No,Yes (115 km),Siemens,SWT-6.0-154,,67,402000,Bard,Offshore Wind Solutions,Siemens/PensionDanmark/,2017/05,Production,13/02/2018
+10354,Asia,CN,China,,Offshore,,Hainan Dongfang Offshore Windfarm,,19.1,108.5,-20,No,Yes (15 km),,,,,350000,China Guodian,,China Guodian,,Approved,23/05/2018
+10384,Europe,DK,Denmark,,Offshore,,Vesterhavet Nord,,56.62,8.5,-20,No,Yes (5 km),Siemens-Gamesa,SG 8.0-167 DD,,20,160000,Vattenfall,Vattenfall,Vattenfall,,Approved,13/06/2018
+10385,Asia,JP,Japan,,Offshore,,Omaezaki,,34.63,138.23,-10,No,Yes (3 km),,,,,40500,,Shizuoka prefecture,Shizuoka prefecture,,Planned,16/01/2018
+10435,Europe,DK,Denmark,,Offshore,,Vesterhavet Syd,,56.7,7.99,-20,No,Yes (5 km),Siemens-Gamesa,SG 8.0-167 DD,,21,168000,Vattenfall,Vattenfall,Vattenfall,,Approved,13/06/2018
+10436,Europe,NO,Norway,,Offshore,,Hywind Metcentre,,59.14,5.3,-220,Yes,Yes (10 km),Siemens,SWT-2.3-93,65,1,2300,Statoil/Siemens,Statoil,Statoil,2009/06,Production,8/6/2018
+10526,Europe,GB,United-Kingdom,,Offshore,,Lincs,,53.191,0.491,-10,No,Yes (8 km),Siemens,SWT-3.6-107,100,75,270000,Centrica/Orsted/Siemens/RES,Centrica,Green Investment Bank/Orsted,2013/09,Production,16/02/2018
+10657,Europe,SE,Sweden,,Offshore,,Nogersund,,56.3018476373,14.7416085004806,80,Yes,Yes,Wind World,W2500/220,38,0,0,E.ON Climate Renewables,,,1990,Dismantled,15/01/2018
+10661,Asia,CN,China,,Offshore,,Guodian Nanao Offshore wind farm,,23.5,117.3,-17,No,Yes,,,,,200000,China Guodian,,China Guodian,,Planned,7/1/2016
+10663,Europe,DE,Germany,,Offshore,,Emden,Enova,53.37,7.21,5,No,Yes,Enercon,E112/4500,116,1,4500,Enova/Enercon/EWE,EWE,EWE,2004/10,Production,13/02/2018
+10664,Europe,GB,United-Kingdom,,Offshore,,Beatrice,,58.303716913952,-2.691650390625,-53,No,Yes (25 km),Repower,5M,107,0,0,Scottish & Southern/Talisman Energy,,,2007/07,Dismantled,16/02/2018
+10665,Europe,GB,United-Kingdom,,Offshore,,Rhyl Flats,,53.38,-3.646,-10,No,Yes (9 km),Siemens,SWT-3.6-107,75,25,90000,West Coast Energy/RWE,RWE,RWE/Green Investment Bank/Greencoat UK Wind,2009/12,Production,16/02/2018
+10666,Europe,DK,Denmark,,Offshore,,Vindeby-Lolland,,54.97,11.13,-3,Yes,Yes (2 km),Bonus,B35/450,38,0,0,SEAS NVE,,,1991/09,Dismantled,13/06/2018
+10667,Asia,CN,China,,Offshore,,Huadian Nanao Offshore wind farm,,23.4,117.3,-28,No,Yes,,,,,200000,,,,,Planned,7/1/2016
+10668,Europe,DK,Denmark,,Offshore,,Frederikshavn,,57.4449105,10.5602703,-3,Yes,Yes (3 km),Nordex,N90/2300,80,1,2300,Orsted,SE Blue Renewables,SE Blue Renewables,2003/06,Production,4/7/2018
+10669,Europe,DK,Denmark,,Offshore,,Frederikshavn,,57.4449105,10.5602703,-3,Yes,Yes (3 km),Vestas,V90/3000,80,1,3000,Orsted,SE Blue Renewables,SE Blue Renewables,2003/06,Production,4/7/2018
+10670,Europe,DK,Denmark,,Offshore,,Frederikshavn,,57.4449105,10.5602703,-3,Yes,Yes (3 km),Bonus,B82/2300,80,1,2300,Orsted,SE Blue Renewables,SE Blue Renewables,2003/04,Production,4/7/2018
+10682,Europe,GB,United-Kingdom,,Offshore,,Kentish Flats 2,,51.45,1.79,-4,No,Yes (9 km),Vestas,V112/3300,84,15,49500,Vattenfall,Vattenfall,Vattenfall,2015/12,Production,16/02/2018
+10683,Europe,FI,Finland,,Offshore,,Pori-Tahkoluoto,Extension,61.67,21.26,-6,No,Yes (14 km),,,,,,Suomen Hyotytuuli Oy,Suomen Hyotytuuli Oy,Suomen Hyotytuuli Oy,,Planned,12/6/2018
+10684,Europe,GB,United-Kingdom,,Offshore,,Burbo Bank,Extension,53.483,-3.273,-10,No,Yes (9 km),Vestas,V164/8000,123,32,256000,Orsted,Orsted,Orsted/PKA/Kirkbi,2016/12,Production,16/02/2018
+10687,Europe,DK,Denmark,,Offshore,,Anholt,,56.6,11.21,-15,No,Yes (20 km),Siemens,SWT-3.6-120,120,111,399600,Orsted,Orsted,Orsted/PensionDanmark/,2012/09,Production,29/06/2018
+10772,Asia,CN,China,,Offshore,,Daishan 2# offshore wind farm,,30.2,122.4,-15,No,Yes,,,,,200000,,,,,Planned,7/1/2016
+10776,Europe,GB,United-Kingdom,,Offshore,,Dogger Bank Creyke Beck A,,54.77,1.91,-25,No,Yes (140 km),,,,200,1200000,Forewind Consortia,,Statoil/Scottish & Southern,,Approved,18/06/2018
+10777,Asia,CN,China,,Offshore,,Daishan 3# offshore wind farm,,30.45,121.66,-10,No,Yes (33 km),,,,,400000,,,,,Planned,22/05/2018
+10778,America,CA,Canada,,Offshore,,Great Lakes Array,,41.94,-81.85,-25,No,Yes (38 km),Vestas,,,,1600000,Trillium Power Wind Corporation,,Trillium Power Wind Corporation,,Planned,11/6/2018
+10781,America,CA,Canada,,Offshore,,NaiKun Wind,Haida Energy Field,53.93,-131.48,-10,No,Yes (12 km),Siemens,SWT-4.0-130,,100,400000,NaiKun,,Enmax Corporation/Orsted,,Approved,11/6/2018
+10782,Europe,IE,Ireland,,Offshore,,Skerd Rocks,Sceirde Rocks,53.28,-9.96,-16,No,Yes (6 km),,,80,20,100000,Fuinneamh Sceirde Teoranta,,Fuinneamh Sceirde Teoranta,,Planned,10/1/2018
+10783,America,CA,Canada,,Offshore,,Superior Array,,47.35,-85.93,-40,No,Yes (70 km),Vestas,,,,650000,Trillium Power Wind Corporation,,Trillium Power Wind Corporation,,Planned,11/6/2018
+10784,America,CA,Canada,,Offshore,,Trillium Power Wind 1,,43.9,-76.66,57,No,Yes (17 km),Vestas,,,110,480000,Trillium Power Wind Corporation,,Trillium Power Wind Corporation,,Planned,11/6/2018
+10785,America,CA,Canada,,Offshore,,Trillium Power Wind 2,,43.8,-76.7,-60,No,Yes (20 km),Vestas,,,,740000,Trillium Power Wind Corporation,,Trillium Power Wind Corporation,,Planned,11/6/2018
+10786,Europe,GB,United-Kingdom,,Offshore,,Triton Knoll Wind Farm,Part 1,53.479,0.837,-20,No,Yes (35 km),MHI Vestas Offshore,V164/9500,140,30,285000,RWE/Statkraft,RWE,RWE,,Approved,16/02/2018
+10788,Europe,GR,Greece,,Offshore,,DWI Peloponese,,36.8,21.6,-2135,No,Yes,,,,,86400,,,,,Planned,8/2/2018
+10789,Asia,CN,China,,Offshore,,Zhangpu Liuao offshore wind farm demonstration project,Phase 2,23.9,117.8,-21,No,Yes,,,,,150000,,,,,Approved,7/1/2016
+10793,Europe,IE,Ireland,,Offshore,,Dublin Array,,53.23,-5.918,-20,No,Yes (10 km),,,100,145,600000,Saorgus Energy,,Saorgus Energy/Innogy,,Planned,23/05/2018
+11112,Europe,SE,Sweden,,Offshore,,Utknallen,,60.87,17.83,-38,No,Yes (30 km),,,,,,,,,,Planned,15/01/2018
+11426,Asia,KR,South Korea,,Offshore,,Uram - Korean Western Power,,37.33,126.15,-21,No,Yes,,,,,360000,Uram General Construction/Korean Western Power,,Uram General Construction/Korean Western Power,,Planned,23/05/2018
+11632,Asia,JP,Japan,,Offshore,,Mutsu Bay,,41.2,141.18,-27,No,Yes,,,,,800000,Japan Wind Develoment/Aomori,,Japan Wind Develoment/Aomori,,Planned,22/05/2018
+12051,Europe,GB,United-Kingdom,,Offshore,,Beatrice,,58.25,-2.88,-42,No,Yes (18 km),Siemens,SWT-7.0-154,,84,588000,Scottish & Southern/Talisman Energy,,Scottish & Southern/Copenhagen Infrastructure Partners/SDIC Power,,Construction,14/03/2018
+12052,Europe,GB,United-Kingdom,,Offshore,,Inch Cape,,56.49,-2.195,-50,No,Yes (20 km),,,107,110,784000,SeaEnergyRenewables,,SDIC Power,,Approved,16/02/2018
+12053,Europe,BE,Belgium,,Offshore,,Norther,North Sea Power,51.5280567,3.158475,-25,Yes,Yes (24 km),MHI Vestas Offshore,V164/8400,,44,369600,Electrawinds,Electrawinds,Diamond Generating Europe/Elicio/Eneco,,Approved,22/01/2018
+12054,Europe,GB,United-Kingdom,,Offshore,,Neart na Gaoithe,,56.267,-2.25,-46,No,Yes,Siemens,SWT-7.0-154,126,64,448000,Mainstream Renewable Power,Mainstream Renewable Power,EDF-EN,,Approved,25/06/2018
+12055,Europe,BE,Belgium,,Offshore,,Northwester 2,,51.686,2.757,-30,Yes,Yes (50 km),MHI Vestas Offshore,,,23,218500,Colruyt,,InControl/Wagram Invest/TTR Energy/Parkwind NV,,Approved,25/04/2018
+12057,Asia,CN,China,,Offshore,,Yangjiang Hailin Island 400MW concession project,,,,,No,Yes,,,,,49500,,,,,Planned,3/8/2017
+12059,America,US,USA,,Offshore,,Dong Energy Massachusetts,Bay State Wind,40.96,-70.83,-51,No,Yes,,,,,2000000,Orsted/Eversource,,Orsted/Eversource,,Planned,14/02/2018
+12064,Europe,BE,Belgium,,Offshore,,Rentel,,51.59,2.94,-25,No,Yes (32 km),Siemens,SWT-7.0-154,106,42,309000,Rentel NV,Siemens,Elicio/Aspiravi/Otary/DEME/Socofe/,,Construction,2/7/2018
+12067,Asia,IN,India,,Offshore,,ONGC - Pilot Project,,18.6,72.6,-28,No,Yes,,,,,10000,Oil and Natural Gas Corp,,Oil and Natural Gas Corp,,Planned,18/06/2018
+12068,Asia,IN,India,,Offshore,,ONGC - Vertical Axis Pilot Project,,20.4,72.8,-7,No,Yes,,,,1,,Oil and Natural Gas Corp,,Oil and Natural Gas Corp,,Planned,18/06/2018
+12070,Europe,GB,United-Kingdom,,Offshore,,Humber Gateway,,53.6185793648954,0.293,-15,No,Yes (10 km),Vestas,V112/3000 Offshore,80,73,219000,E.ON Climate Renewables,E.ON Climate Renewables,E.ON Climate Renewables,2015/06,Production,16/02/2018
+12071,Europe,GB,United-Kingdom,,Offshore,,Race Bank,,53.276,0.841,-15,No,Yes (32 km),Siemens,SWT-6.0-154,110,91,573300,Orsted/Siemens,Orsted,Orsted/Macquarie/Sumitomo,2018/02,Production,16/02/2018
+12072,Europe,GB,United-Kingdom,,Offshore,,Dudgeon,,53.265,1.38,-20,No,Yes (32 km),Siemens,SWT-6.0-154,,67,402000,Statkraft/Statoil,Statoil,China Resources/Statoil/Masdar,2017/10,Production,22/05/2018
+12073,Asia,CN,China,,Offshore,,Tangshan - Area 9 (intertidal),,39.8,118.15,42,No,Yes (8 km),,,,,300000,,,,,Planned,7/1/2016
+12352,Asia,JP,Japan,,Offshore,,Saitec-Univergy,,,,,No,Yes,,,,,,,,,,Planned,10/4/2018
+13053,Asia,AZ,Azerbaijan,,Offshore,,Pirallahi,,40.38,50.46,-29,No,Yes,,,,,200000,,,,,Planned,24/05/2018
+14480,Europe,SE,Sweden,,Offshore,,Gretas Klackar,,61.52,17.72,-36,No,Yes (18 km),,,,,,,,,,Planned,15/01/2018
+15384,Europe,BE,Belgium,,Offshore,,Thorntonbank,Part 2,51.56,2.97,-20,No,Yes (27 km),Senvion,6M126,95,30,184500,C-Power NV,C-Power NV,DEME/EDF-EN/Socofe/Nuhma/RWE/,2013/01,Production,25/06/2018
+15385,Europe,BE,Belgium,,Offshore,,Thorntonbank,Part 3,51.54,2.92,-20,No,Yes (26 km),Senvion,6M126,95,18,110700,C-Power NV,C-Power NV,DEME/EDF-EN/Socofe/Nuhma/RWE/,2013/07,Production,25/06/2018
+15480,Europe,EE,Estonia,,Offshore,,Baltic Blue D - Phase 2,,58.61,22.13,-33,No,Yes (8 km),,,,50,350000,Baltic Blue Energy OU,Baltic Blue Energy OU,Baltic Blue Energy OU,,Planned,28/05/2018
+15482,Asia,CN,China,,Offshore,,Tangshan - Area 8 (intertidal),,39.7,118.73,37,No,Yes (9 km),,,,,200000,,,,,Planned,7/1/2016
+15483,Asia,CN,China,,Offshore,,Tangshan - Area 7 (intertidal),,39.13,118.63,-6,No,Yes (5 km),,,,,100000,,,,,Planned,2/7/2015
+15484,Asia,CN,China,,Offshore,,Tangshan - Area 6 - phase IV,,39.29,119.58,-20,No,Yes (31 km),,,,,300000,,,,,Planned,24/05/2018
+15487,Asia,CN,China,,Offshore,,Tangshan - Area 6 - phase III,,39.23,119.5,-20,No,Yes (29 km),,,,,300000,,,,,Planned,24/05/2018
+15488,Asia,CN,China,,Offshore,,Tangshan - Area 6 - phase II,,39.18,119.43,-20,No,Yes (28 km),Siemens,SWT-4.0-130,,75,300000,Hebei Construction Investment,,,,Construction,24/05/2018
+15489,Asia,CN,China,,Offshore,,Tangshan - Area 6 - phase I,,39.13,119.35,-20,No,Yes (28 km),,,,,300000,,,,,Planned,24/05/2018
+15490,Asia,CN,China,,Offshore,,Tangshan - Area 5 - phase III,,38.94,119.19,-23,No,Yes (30 km),,,,,300000,,,,,Planned,7/1/2016
+15509,Asia,CN,China,,Offshore,,Tangshan - Area 5 - phase II,,38.91,119.8,-25,No,Yes (28 km),,,,,300000,Huaneng Group,,,,Planned,24/05/2018
+15510,Asia,CN,China,,Offshore,,Tangshan - Area 5 - phase I,,38.88,118.97,-25,No,Yes (28 km),,,,,300000,,,,,Planned,7/1/2016
+15515,Asia,CN,China,,Offshore,,Tangshan - Area 4 - phase II,,38.98,118.22,-5,No,Yes (11 km),,,,,300000,,,,,Planned,7/1/2016
+15517,Asia,CN,China,,Offshore,,Tangshan - Area 4 - phase I,,39.3,118.5,-8,No,Yes (17 km),,,,,300000,,,,,Planned,7/1/2016
+15520,America,US,USA,,Offshore,,Morro Bay floating project,,,,,No,Yes,,,,,765000,,,,,Planned,13/07/2017
+15894,Asia,JP,Japan,,Offshore,,Kamisu,Phase 2,35.8961515,140.726063,-5,Yes,Yes,Subaru,Subaru 80/2.0,60,8,16000,Wind Power Ibaraki,Wind Power Ibaraki,Wind Power Ibaraki/,2004/01,Production,18/04/2018
+15930,Europe,DK,Denmark,,Offshore,,Avedøre Holme,,55.6,12.46,-2,No,Yes (0.5 km),Siemens,SWT-3.6-120,120,3,10800,Orsted,Orsted,Orsted/,2011/12,Production,23/05/2018
+15997,Asia,JP,Japan,,Offshore,,Kamisu,Phase 1,35.8961515,140.726063,-5,Yes,Yes,Subaru,Subaru 80/2.0,60,7,14000,Komatsuzaki,Wind Power Ibaraki,Wind Power Ibaraki/,2010/03,Production,18/04/2018
+15998,Asia,JP,Japan,,Offshore,,Sakata,,38.967,139.822,-4,No,Yes,Vestas,V90/2000,60,5,10000,Japan Renewable Energy Corporation,,Japan Renewable Energy Corporation,2004/01,Production,16/01/2018
+15999,Asia,JP,Japan,,Offshore,,Setana Offshore,,42.443,139.839,-10,Yes,Yes,Vestas,V47/660,47,2,1320,Setana Town,Setana Town,Setana Town,2004/04,Production,19/04/2018
+16004,Europe,SE,Sweden,,Offshore,,Stenkalles grund,,59.22,13.31,44,No,Yes,,,120,20,100000,Rewind Offshore AB,,Rewind Offshore AB/,,Approved,15/01/2018
+16047,Europe,BE,Belgium,,Offshore,,Northwind,Eldepasco,51.619,2.901,-20,Yes,Yes (37 km),Vestas,V112/3000 Offshore,71,72,216000,Northwind NV,Aspiravi/Parkwind NV,Aspiravi/Sumitomo/Parkwind NV,2014/06,Production,9/3/2018
+16101,Asia,IN,India,,Offshore,,Tamil Nadu - Suzlon,,8.2,78.,-20,No,Yes,,,,,500000,Suzlon,,Suzlon,,Planned,18/06/2018
+16105,Europe,FI,Finland,,Offshore,,Inkoo,Inkoo-Raaseporin,59.86,23.89,-8,Yes,Yes (12 km),,,100,60,300000,Suomen Hyotytuuli Oy,,,,Planned,12/6/2018
+16108,Europe,FI,Finland,,Offshore,,Ulkonahkiainen,,64.61,23.89,-15,No,Yes (20 km),,,,70,210000,Suomen Hyotytuuli Oy,Suomen Hyotytuuli Oy,Suomen Hyotytuuli Oy,,Planned,12/6/2018
+16109,Europe,FI,Finland,,Offshore,,Raahe,Maanahkiaisen,64.58,24.9,-10,Yes,Yes (5 km),,,,70,350000,Rajakiiri Oy,Rajakiiri Oy,Rajakiiri Oy,,Planned,12/6/2018
+16110,Europe,FI,Finland,,Offshore,,Raahe,Pertunmatala,64.78,24.4,-12,No,Yes (7 km),,,,24,72000,Suomen Hyotytuuli Oy,Suomen Hyotytuuli Oy,Suomen Hyotytuuli Oy,,Planned,12/6/2018
+16113,Europe,FI,Finland,,Offshore,,Suurhiekka,,65.28,24.61,-15,Yes,Yes (6 km),,,100,80,480000,WPD,,WPD,,Planned,12/6/2018
+16115,Europe,FI,Finland,,Offshore,,Pori Offshore 1,Reposaaren Tuulipuisto,61.62,21.35,-20,Yes,Yes (7 km),Siemens,SWT-2.3-101,80,1,2300,Suomen Hyotytuuli Oy,Suomen Hyotytuuli Oy,Suomen Hyotytuuli Oy,2010/07,Production,12/6/2018
+16237,Europe,EE,Estonia,,Offshore,,Baltic Blue C - Phase 2,,58.57,22.4,10,No,Yes (7 km),,,,60,420000,Baltic Blue Energy OU,Baltic Blue Energy OU,Baltic Blue Energy OU,,Planned,28/05/2018
+16287,Europe,DE,Germany,,Offshore,,Meerwind Süd,,54.4285175105634,7.6190185546875,-25,No,Yes (55 km),Siemens,SWT-3.6-120,85,40,144000,Blackstone/Windland Energieerzeugungs GmbH,Blackstone/Windland Energieerzeugungs GmbH,Three Gorges/,2015/03,Production,13/02/2018
+16288,Europe,DE,Germany,,Offshore,,Meerwind Ost,,54.4285175105634,7.6190185546875,-25,No,Yes (55 km),Siemens,SWT-3.6-120,85,40,144000,Blackstone/Windland Energieerzeugungs GmbH,Blackstone/Windland Energieerzeugungs GmbH,Three Gorges/,2015/03,Production,13/02/2018
+16291,Europe,GB,United-Kingdom,,Offshore,,Walney,Phase 1,53.8104413,-4.9074381,-109,No,Yes,Siemens,SWT-3.6-107,84,51,183600,Orsted/Scottish & Southern,Orsted,Orsted/Scottish & Southern/Ampere Equity Fund/PGGM,2011/07,Production,16/02/2018
+16318,Asia,CN,China,,Offshore,,Tangshan - Area 2,,39.1,118.99,-15,No,Yes,,,,,200000,,,,,Planned,2/7/2015
+16320,Asia,CN,China,,Offshore,,Shengsi #7 Offshore Wind Power Project,,30.73,122.15,-8,No,Yes (30 km),,,,,200000,,,,,Planned,7/1/2016
+16323,Asia,CN,China,,Offshore,,Huaneng Hainan Wenchang 1# offshore wind farm,,19.97,111.5,-75,No,Yes (11 km),,,,,200000,,,,,Planned,7/1/2016
+16325,Asia,VN,Vietnam,,Offshore,,Bac Lieu Province Wind Power Plant,Phase 3,9.2229145,105.7951585,0,No,Yes,GE Energy,,,71,142000,Cong Ly/Super Wind Energy,Cong Ly/Super Wind Energy,Cong Ly/Super Wind Energy,,Construction,31/05/2018
+16327,Asia,CN,China,,Offshore,,Jiangsu Rudong 300MW Offshore (Intertidal) Demonstration Wind Farm,Phase III,,,,No,Yes,,,,100,300000,,,,,Approved,3/8/2017
+16332,Asia,CN,China,,Offshore,,NPC Nanao Offshore wind farm-phase 1,,23.5,117.3,-17,No,Yes,,,,,49500,CGN Wind Energy Ltd,,,,Planned,7/1/2016
+16333,Asia,CN,China,,Offshore,,NPC Jieyang Golden Bay Offshore Wind Farm,,,-15.,,No,Yes (10 km),,,,,150000,,,,,Planned,3/8/2017
+16336,Europe,EE,Estonia,,Offshore,,Baltic Blue B - Phase 3,,58.75,22.1,-26,No,Yes (18 km),,,,100,700000,Baltic Blue Energy OU,Baltic Blue Energy OU,Baltic Blue Energy OU,,Planned,28/05/2018
+16340,Europe,NO,Norway,,Offshore,,Kvitsøy Wind Turbine Demonstration Area,,59.8,5.41,-40,Yes,Yes (10 km),,,,2,10000,METCentre,METCentre,,,Approved,8/6/2018
+16341,Europe,NO,Norway,,Offshore,,Rennesøy Wind Turbine Demonstration Area,,59.6,5.61,-40,Yes,Yes (5 km),,,,2,10000,METCentre,METCentre,,,Approved,8/6/2018
+16346,Asia,CN,China,,Offshore,,Shengsi #1 Offshore Wind Power Project,,30.57,121.64,-9,No,Yes (34 km),,,,,400000,,,,,Planned,7/1/2016
+16347,Asia,CN,China,,Offshore,,NPC Qidong 200MW offshore wind farm,,32.1,121.8,-10,No,Yes (40 km),,,,,200000,CGN Wind Energy Ltd,,CGN Wind Energy Ltd,,Planned,7/1/2016
+16348,Asia,CN,China,,Offshore,,NPC Nanao Offshore wind farm-phase 2,,23.5,117.3,-17,No,Yes,,,,,150000,CGN Wind Energy Ltd,,,,Planned,7/1/2016
+16351,Europe,SE,Sweden,,Offshore,,Storgrundet,,61.15,17.46,-25,Yes,Yes (16 km),,,,70,420000,WPD,,WPD,,Approved,15/01/2018
+16356,Europe,FI,Finland,,Offshore,,Kemi Ajos III,Kemin Ajoksen III,65.64,24.51,-10,No,Yes (7 km),,,,,189000,OX2,OX2,OX2,,Planned,12/6/2018
+16360,Europe,FI,Finland,,Offshore,,Pori-Tahkoluoto,Pori 2,61.60803,21.25958,-21,Yes,Yes (8 km),Siemens,SWT-4.0-130,90,10,42000,Suomen Hyotytuuli Oy,Suomen Hyotytuuli Oy,Suomen Hyotytuuli Oy,2017/08,Production,12/6/2018
+16363,Europe,EE,Estonia,,Offshore,,Liivi Iaht,Kihnu,57.97,23.98,-20,Yes,Yes (20 km),,,,,960000,Eesti Energia AS,Eesti Energia AS,Eesti Energia AS,,Planned,28/05/2018
+16365,Europe,PL,Poland,,Offshore,,Baltica 1,,55.56,17.53,-25,No,Yes (90 km),,,,,1202500,Baltica 1 Sp,,Polska Grupa Energetyczna,,Planned,1/6/2018
+16366,Europe,PL,Poland,,Offshore,,Baltica 2,,55.7,17.1,-40,No,Yes (40 km),,,,,1202500,Baltica 2 Sp,,Polska Grupa Energetyczna,,Planned,1/6/2018
+16367,Europe,PL,Poland,,Offshore,,Baltica 3,,55.6,17.45,-40,No,Yes (34 km),,,,,1045500,Baltica 3 Sp,,Polska Grupa Energetyczna,,Planned,1/6/2018
+16368,Europe,SE,Sweden,,Offshore,,Södra Midsjöbanken,,55.65,17.33,-20,Yes,Yes (70 km),,,,,2100000,E.ON Climate Renewables,,E.ON Climate Renewables,,Planned,15/01/2018
+16369,Europe,SE,Sweden,,Offshore,,Karehamn,,56.98,17.2,-21,Yes,Yes (5 km),Vestas,V112/3000 Offshore,80,16,48000,E.ON Climate Renewables,E.ON Climate Renewables,E.ON Climate Renewables,2013/09,Production,15/01/2018
+16371,Europe,SE,Sweden,,Offshore,,SeaTwirl 10MW,,58.25,11.3,-26,No,Yes,,,,1,10000,SeaTwirl AB,SeaTwirl AB,SeaTwirl AB,,Planned,15/01/2018
+16373,Europe,SE,Sweden,,Offshore,,Rata Storgrund - phase 1,,64.21,12.,130,No,Yes,,,,,,,,Rewind Offshore AB,,Planned,15/01/2018
+16374,Europe,SE,Sweden,,Offshore,,Taggen Vindpark,,55.86,14.57,-20,Yes,Yes (16 km),,,100,60,300000,Taggen Vindpark AB,,Vattenfall/,,Approved,15/01/2018
+16375,Oceania,AU,Australia,,Offshore,,Star of the South Energy Project,,-38.79,146.92,-40,No,Yes (15 km),,,,,2000000,Offshore Energy,Offshore Energy,Offshore Energy,,Planned,5/7/2018
+16376,Europe,SE,Sweden,,Offshore,,Kriegers Flak II,,55.7,13.1,1,Yes,Yes (20 km),,,,128,640000,Vattenfall,,Vattenfall,,Approved,29/06/2018
+16378,Europe,SE,Sweden,,Offshore,,Stora Middelgrund,,56.6,12.12,-20,Yes,Yes (30 km),,,,108,864000,Universal Wind AB,,Universal Wind AB,,Approved,15/01/2018
+16379,Europe,SE,Sweden,,Offshore,,Oskarshamn,,57.4,16.7,-2,No,Yes,,,,,400000,,,Rewind Offshore AB,,Planned,15/01/2018
+16385,Asia,VN,Vietnam,,Offshore,,Bac Lieu Province Wind Power Plant,Phase 1,9.2366916,105.822296,0,Yes,Yes (0.4 km),GE Energy,1.6-82.5,90,10,16000,Cong Ly,Cong Ly,Cong Ly,2013/09,Production,31/05/2018
+16386,Asia,VN,Vietnam,,Offshore,,Bac Lieu Province Wind Power Plant,Phase 2,9.221434,105.802796,0,Yes,Yes,GE Energy,1.6-82.5,90,52,83200,Cong Ly,Cong Ly,Cong Ly,2015/12,Production,31/05/2018
+16387,Asia,CN,China,,Offshore,,HEC Offshore Wind Farm,,22.17,114.8,-40,No,Yes,,,75,35,100000,The HongKong Electric Company,,The HongKong Electric Company,,Approved,22/02/2018
+16388,Asia,CN,China,,Offshore,,Lufeng Lake Bay Wind Farm,,22.7,115.7,-17.2,No,Yes,,,60,,1250000,Lufeng Baolihua New Enegy Electric Power Co,,,,Planned,3/10/2017
+16390,Asia,CN,China,,Offshore,,Putian Pinghai bay offshore project phase B E Offshore Wind Farm,,25.115,119.286,-6,No,Yes (6 km),,,,,600000,,,,,Approved,7/1/2016
+16391,Asia,CN,China,,Offshore,,Zhangpu Liuao offshore wind farm demonstration project,Phase 1,23.9,117.8,-12,No,Yes,XEMC-Darwind,,,,50000,China Datang Corporation renewable Power Co,,China Datang Corporation renewable Power Co,,Approved,7/1/2016
+16392,Asia,CN,China,,Offshore,,Xiamen,Dacheng Island,24.3,118.2,-15,No,Yes,,,,,100000,,,,,Planned,2/7/2015
+16393,Asia,CN,China,,Offshore,,Quanzhou,,24.79,118.85,-15,No,Yes,,,,,150000,,,,,Planned,7/1/2016
+16394,Asia,CN,China,,Offshore,,Fuqing Haitan Strait Intertidal wind farm,,25.6,119.6,0,No,Yes,XEMC-Darwind,XE/DD115,62,40,200000,Huadian Power,,Huadian Power,,Approved,7/1/2016
+16395,Asia,CN,China,,Offshore,,Fuqing Haitan Strait Offshore wind farm,,25.6,119.6,0,No,Yes,,,,,300000,Huadian Power,,Huadian Power,,Approved,7/1/2016
+16396,Asia,CN,China,,Offshore,,Pingtan Offshore Wind Farm,,25.68,119.73,-6,No,Yes,Siemens,SWT-4.0-130,,75,300000,China Guodian,,China Guodian,,Construction,20/02/2018
+16398,Asia,CN,China,,Offshore,,Dongtou offshore wind farm,,27.9,121.2,-13,No,Yes,,,,,600000,Dongtou Development and Reform bureau,,Dongtou Development and Reform bureau,,Planned,7/1/2016
+16400,Asia,CN,China,,Offshore,,Linhai Wind Farm,,28.859,121.87,-5,No,Yes (18 km),,,,,100000,,,Three Gorges,,Planned,7/1/2016
+16401,Asia,CN,China,,Offshore,,Xiangshan Offshore Windfarm,Phase 2,29.4,122.,-10,No,Yes (15 km),,,,,250000,China Guodian,,China Guodian,,Planned,7/1/2016
+16404,America,CA,Canada,,Offshore,,Beothuk Energy Inc - Burgeo Banks,,47.5,-57.6,-277,No,Yes,,,,,1000000,Beothuk Energy Inc/,,Beothuk Energy Inc/PensionDanmark,,Planned,11/6/2018
+16406,Asia,CN,China,,Offshore,,Cixi I,,30.3,121.4,-2,No,Yes,,,,,200000,,,Three Gorges,,Planned,7/1/2016
+16409,Asia,CN,China,,Offshore,,Fengxian,,30.74,121.78,-8,No,Yes (10 km),,,,,100000,,,,,Approved,7/1/2016
+16410,Asia,CN,China,,Offshore,,Fengxian Large Scale,,30.76,121.84,-8,No,Yes (8 km),,,,,300000,,,,,Approved,7/1/2016
+16411,Asia,CN,China,,Offshore,,Donghai Bridge Offshore Wind Farm Phase II,,30.77,121.99,-10,No,Yes (8 km),Sinovel,SL 3000/90,91,34,102000,Shanghai Donghai Wind Power/CGN Wind Energy Ltd,Shanghai Donghai Wind Power,Shanghai Donghai Wind Power,2010/07,Production,19/02/2018
+16412,Asia,CN,China,,Offshore,,Shengsi #5 Offshore Wind Power Project,,30.7,122.6,-17,No,Yes (22 km),,,,50,150000,,,,,Planned,7/1/2016
+16413,Asia,CN,China,,Offshore,,Hengsha,,31.3,122.2,-1,No,Yes,,,,,200000,,,,,Planned,7/1/2016
+16416,Asia,CN,China,,Offshore,,Huadian and Mingyang,,32.653,121.713,-10,No,Yes (43 km),Guangdong Mingyang,,,50,300000,,,,,Approved,7/1/2016
+16417,Asia,CN,China,,Offshore,,Nantong Haian,Phase 1,32.6,120.9,2,No,Yes,,,,12,24000,Concord New Energy (China Windpower),,Concord New Energy (China Windpower),,Approved,24/11/2017
+16418,Asia,CN,China,,Offshore,,Longyuan Rudong Intertidal Demonstration Project,,32.4,121.4,-16,No,Yes,,,,16,32000,LongYuan,LongYuan,LongYuan,2010/09,Production,19/02/2018
+16420,Asia,CN,China,,Offshore,,Rudong Zhongshui (intertidal) 100MW demonstration project,,32.4,121.41,-21,No,Yes,Siemens,,,32,80000,SinoHydro Investment Limited Corporation,,,2015/12,Production,19/02/2018
+16428,America,US,USA,,Offshore,,Vineyard Wind,,40.95,-70.59,-45,No,Yes (40 km),,,,,1600000,Vineyard Wind,,Vineyard Wind/PensionDanmark/Avangrid Renewables,,Planned,14/02/2018
+16429,Asia,CN,China,,Offshore,,Dongtai wind farm stage 4,,32.99,121.37,0,No,Yes,Shanghai Electric,W3600/116,,84,302400,,,,,Construction,20/02/2018
+16431,Asia,CN,China,,Offshore,,Dafeng Intertidal Demonstration,,,,,No,Yes,Shanghai Electric,W2000/93,,1,2000,,,,2009,Production,19/02/2018
+16432,Asia,CN,China,,Offshore,,Jiangsu Dafeng offshore wind farm demonstration project,,33.34,120.71,-5,No,Yes (30 km),Goldwind,GW100/2500,82,80,200000,China Guodian,,China Guodian,,Approved,16/01/2017
+16433,Asia,CN,China,,Offshore,,CPI Dafeng Intertidal Concession Project,,33.4,121.,-10,No,Yes,Goldwind,GW100/2500,82,80,200000,China Power Investment Corporation,,,,Planned,2/7/2015
+16434,Asia,CN,China,,Offshore,,Jiangsu Rudong 150MW Offshore,Phase I,32.4,121.6,-6,No,Yes,Sinovel,SL 3000/90,,17,51000,LongYuan,LongYuan,LongYuan,2012/03,Production,19/02/2018
+16436,Asia,CN,China,,Offshore,,Huaneng Dafeng Intertidal C4 Wind Power Demonstration Project,,33.133,121.5,-10,No,Yes (55 km),Sinovel,,,100,300000,,,,,Approved,7/1/2016
+16437,Asia,CN,China,,Offshore,,Sheyang Offshore Concession Project,,33.98,120.82,-15,No,Yes (25 km),Sinovel,SL 3000/90,90,100,300000,China Power Investment Corporation,,China Power Investment Corporation,,Approved,23/02/2018
+16438,Asia,CN,China,,Offshore,,Bin Hai Offshore Concession Project,,33.7,120.7,-11,No,Yes,Sinovel,SL 3000/90,90,100,300000,,,China Datang Corporation renewable Power Co,,Approved,19/07/2016
+16439,Asia,CN,China,,Offshore,,CPI Binhai South offshore wind farm - Pilot,,34.19,120.39,-10,No,Yes (7 km),,,,8,48000,China Power Investment Corporation,,China Power Investment Corporation,,Approved,7/1/2016
+16440,Asia,CN,China,,Offshore,,CPI Binhai South Development Zone,,34.2,120.4,-10,No,Yes,,,,,450000,,,China Power Investment Corporation,,Planned,7/1/2016
+16441,America,US,USA,,Offshore,,US Wind Inc (New Jersey Call Response),,39.19,-74.2,-25,No,Yes (30 km),,,,,2230000,,,US Wind Inc,,Planned,14/02/2018
+16442,Asia,CN,China,,Offshore,,Xiangshui Offshore Demonstation Project,,34.5,120.1,-10,No,Yes (9 km),Goldwind,,,18,48000,,,Three Gorges,2016/10,Production,19/02/2018
+16444,Asia,CN,China,,Offshore,,Ganyu,Phase 1,34.8,119.4,-3,No,Yes (8 km),,,,,400000,Renewable Energy Asia Group Limited,,Renewable Energy Asia Group Limited,,Planned,7/1/2016
+16445,Asia,CN,China,,Offshore,,Xiangshui Intertidal Pilot Project,Goldwind,34.5,119.9,-1,No,Yes,Goldwind,GW100/2500,80,1,2500,,Yangtze New Energies Development,Three Gorges,2011,Production,19/02/2018
+16446,Asia,CN,China,,Offshore,,Xiangshui Intertidal Pilot Project,Shangai Electric,34.5,119.9,-1,No,Yes,Shanghai Electric,W2000/93,84,1,2000,,Yangtze New Energies Development,Three Gorges,2011,Production,19/02/2018
+16447,Asia,CN,China,,Offshore,,Xiangshui Intertidal Pilot Project,Shangai Electric,34.5,119.9,-1,No,Yes,Shanghai Electric,W2000/93,70,1,2000,,Yangtze New Energies Development,Three Gorges,2011,Production,19/02/2018
+16449,Asia,CN,China,,Offshore,,Lianyungang,,34.7,119.6,-7,No,Yes,,,,40,200000,China Guodian,China Guodian,China Guodian,,Planned,2/7/2015
+16450,Asia,CN,China,,Offshore,,Ganyu,Phase 2,34.8,119.4,-3,No,Yes,,,,,1000000,Renewable Energy Asia Group Limited,,Renewable Energy Asia Group Limited,,Planned,7/1/2016
+16452,Asia,CN,China,,Offshore,,CNOOC Weihai - Phase I,,36.9,112.6,1095.5,No,Yes,,,,34,102000,China National Offshore Oil Corp,China National Offshore Oil Corp,China National Offshore Oil Corp,,Approved,22/02/2018
+16453,Asia,CN,China,,Offshore,,CNOOC Weihai - Roncheng - Northern Block,,37.1,122.7,-34,No,Yes,,,,,300000,China National Offshore Oil Corp,China National Offshore Oil Corp,China National Offshore Oil Corp,,Approved,16/01/2017
+16454,Asia,CN,China,,Offshore,,Long Island County Extension,,37.98,120.37,-16,No,Yes,,,90,84,252000,Sanrong,,Sanrong,,Planned,2/7/2015
+16455,Asia,CN,China,,Offshore,,Long Island County,,37.96,120.53,-10,No,Yes (19 km),,,90,16,48000,Sanrong,,Sanrong,,Approved,2/7/2015
+16456,America,US,USA,,Offshore,,Galveston Met Mast,,29.2,-94.8,-12,No,Yes,,,,,3000,,,,,Approved,14/02/2018
+16457,Asia,CN,China,,Offshore,,Datang Laizhou Wind Farm Phase III,,37.3,119.7,-8,No,Yes,China Creative Wind Energy,CCWE-1500/82.DF,,33,49500,China Datang Corporation renewable Power Co,China Datang Corporation renewable Power Co,China Datang Corporation renewable Power Co,2014/02,Production,2/7/2015
+16458,Asia,CN,China,,Offshore,,Cangzhou Offshore Wind Farm,Phase 1,38.5,117.8,-3,No,Yes,,,,,300000,,,,,Planned,7/1/2016
+16460,Asia,CN,China,,Offshore,,Tianjin Hangu,,30.1,117.9,243,No,Yes,,,,,200000,Huadian Power,,Huadian Power,,Planned,2/7/2015
+16462,Asia,CN,China,,Offshore,,Laoting Offshore Wind Power Demonstration Project,,38.985,118.8,-20,No,Yes (18 km),,,,100,300000,,,,,Approved,19/07/2016
+16463,Asia,CN,China,,Offshore,,Shengsi #4 Offshore Wind Power Project,,30.56,121.91,-8,No,Yes (32 km),,,,,200000,,,,,Planned,7/1/2016
+16465,Asia,CN,China,,Offshore,,Datang Nanao Offshore wind farm,,23.4,117.3,-28,No,Yes,,,,,200000,China Datang Corporation renewable Power Co,,,,Planned,7/1/2016
+16466,Asia,CN,China,,Offshore,,Suizhong 36-1 Oil Field,,39.9,120.8,-30,No,Yes (70 km),Goldwind,GW70/1500,57,1,1500,China National Offshore Oil Corp,China National Offshore Oil Corp,China National Offshore Oil Corp,2007/11,Production,19/02/2018
+16470,Asia,KR,South Korea,,Offshore,,Jeonnam,,35.4,125.89,-22,No,Yes,,,,,4500000,POSCO,,,,Planned,5/1/2018
+16471,Asia,KR,South Korea,,Offshore,,Southwest Offshore Wind Project,Phase 1 (Test Site),35.4821147,126.308834,-10,No,Yes (12 km),Doosan,WinDS3000/100,90,7,21000,KOWP,,KOSEP/KEPCO/,,Construction,5/1/2018
+16472,Asia,KR,South Korea,,Offshore,,Southwest Offshore Wind Project,Phase 2,35.5,126.2,-13,No,Yes,,,,,400000,KOWP,,,,Planned,5/1/2018
+16473,Asia,KR,South Korea,,Offshore,,Southwest Offshore Wind Project,Phase 3,35.6,126.,-30,No,Yes (40 km),,,,,2000000,KEPCO,,,,Planned,5/1/2018
+16474,Asia,KR,South Korea,,Offshore,,SinChang,,33.4,126.2,-16,No,Yes,,,,20,100000,,,,,Planned,5/1/2018
+16475,Asia,KR,South Korea,,Offshore,,Hanrim-eup,Hallym,33.45,126.25,-12,No,Yes,,,,25,100000,KEPCO,,KEPCO/KOMIPO,,Approved,5/1/2018
+16477,Asia,KR,South Korea,,Offshore,,Saemangeum Offshore,,35.87,126.52,-5,No,Yes (10 km),,,,28,99200,Saemangeum Offshore Wind Power,Saemangeum Offshore Wind Power,Saemangeum Offshore Wind Power,,Approved,5/1/2018
+16478,Asia,KR,South Korea,,Offshore,,Demonstrative offshore windpark of Jeju island,,33.5751954,126.7854766,-4,Yes,Yes,Doosan,,,1,3000,Korean Institute of Energy Research,,,2012/02,Production,5/1/2018
+16480,Asia,KR,South Korea,,Offshore,,Maritime Offshore,,35.26,129.28,-40,No,Yes (1.5 km),,,,108,540000,,,,,Planned,5/1/2018
+16482,America,US,USA,,Offshore,,Galveston Offshore Wind Phase 2,,29.16,-94.75,-15,No,Yes,XEMC-Darwind,,,75,150000,Coastal Point Energy,,Coastal Point Energy,,Planned,2/7/2018
+16483,America,US,USA,,Offshore,,Galveston Offshore Wind Phase 1,,29.16,-94.8,-15,No,Yes (10 km),XEMC-Darwind,,,75,150000,Coastal Point Energy,,Coastal Point Energy,,Planned,2/7/2018
+16486,America,US,USA,,Offshore,,Virginia - Dominion 1,,36.91,-75.35,-31,No,Yes (54 km),,,,,500000,Dominion Energy,,Dominion Energy,,Planned,12/6/2018
+16487,America,US,USA,,Offshore,,Offshore Wind Power Systems of Texas Titan Platform,,27.912,-96.833,-18,No,Yes,,,,1,6000,Offshore Wind Power Systems of Texas LLC,,,,Approved,14/02/2018
+16488,Europe,FR,France,,Offshore,,Le Tréport,Dieppe,50.15,1.12,-20,No,Yes (15 km),Siemens-Gamesa,SG 8.0-167 DD,122,62,496000,Engie/IED,,Engie/EDP Renovaveis/Caisse des Dépôts,,Planned,7/2/2018
+16490,Europe,FR,France,,Offshore,,Groix,,47.4,-3.4,-60,No,Yes (20 km),GE Energy,Haliade 150,,4,24000,Eolfi,,Eolfi/,,Planned,7/2/2018
+16491,Europe,FR,France,,Offshore,,Ideol & Quadran Floating Project,EolMed,42.9,3.4,-89,No,Yes,,,,,500000,Quadran/Ideol,Quadran,Quadran,,Planned,7/2/2018
+16494,America,US,USA,,Offshore,,Vermilion Bay,,29.7,-92.1,0,No,Yes,XEMC-Darwind,,,18,36000,Coastal Point Energy,,Coastal Point Energy,,Planned,14/02/2018
+16512,Asia,JP,Japan,,Offshore,,Ibaraki Kashima port North,Phase 2,35.9,140.73,-10,No,Yes (1 km),,,,5,25000,,,,,Approved,16/01/2018
+16514,America,CA,Canada,,Offshore,,Wolfe Island Shoals,,44.2,-76.56,54,No,Yes,Siemens,SWT-2.3-93,,130,299000,Windstream Offshore,,Windstream Offshore,,Planned,11/6/2018
+16517,Asia,JP,Japan,,Offshore,,Toshi-Jima,,34.6,136.9,-20,No,Yes (2 km),,,,40,,,,,,Planned,16/01/2018
+16518,Asia,JP,Japan,,Offshore,,Akita,,40.7,139.92,-25,No,Yes (3 km),,,,426,2982000,Akita offshore group,,Akita offshore group,,Planned,16/01/2018
+16521,Europe,GB,United-Kingdom,,Offshore,,Forthwind Offshore Wind Demonstration Project - 2,,56.14,-3.2,-20,No,Yes (2 km),,,,,53000,2-B Energy,,2-B Energy,,Planned,16/02/2018
+16522,Europe,FR,France,,Offshore,,Calvados,Courseulles-sur-Mer,49.469,0.552,7,No,Yes,GE Energy,Haliade 150,100,75,450000,Eolien Maritime France,,EDF-EN/Enbridge/WPD,,Planned,7/2/2018
+16524,Europe,FR,France,,Offshore,,Saint-Brieuc,,48.853,-2.539,-30,No,Yes (20 km),Siemens-Gamesa,SG 8.0-167 DD,,62,496000,Ailes Marines SAS,Ailes Marines SAS,Iberdrola Renewables/Eole-Res/Caisse des Dépôts,,Approved,7/2/2018
+16526,Europe,FR,France,,Offshore,,Saint-Nazaire,Banc de Guérande,47.157,-2.606,-20,No,Yes (15 km),GE Energy,Haliade 150,109,80,480000,Eolien Maritime France,,EDF-EN/Enbridge,,Planned,7/2/2018
+16528,Europe,FR,France,,Offshore,,Nénuphar Twinfloat,Vertimed,43.296,4.928,-70,No,Yes (8 km),,,,1,5000,Technip/EDF-EN/Nenuphar/,,EDF-EN,,Planned,7/2/2018
+16529,Europe,FR,France,,Offshore,,Noirmoutier,Ile d’Yeu,46.87,-2.51,-25,No,Yes (29 km),Siemens-Gamesa,SG 8.0-167 DD,,62,496000,Engie/IED,,Engie/EDP Renovaveis/Caisse des Dépôts,,Planned,7/2/2018
+16530,Europe,GB,United-Kingdom,,Offshore,,Hornsea Project Two - Breesea and Optimus Wind,,53.92,1.56,-40,No,Yes (100 km),Siemens,,,,1386000,Orsted,Orsted,Orsted,,Approved,16/02/2018
+16538,Asia,KR,South Korea,,Offshore,,Wando,,,,,No,Yes,,,,,200000,,,,,Planned,5/1/2018
+16547,Europe,PT,Portugal,,Offshore,,WindFloat - Phase 3,WindFloat Atlantic,39.88,-9.12,-60,No,Yes (12 km),,,,,25000,EDP Renovaveis/Repsol/Principle Power/ASM/Vestas/InovCapital,EDP Renovaveis/Repsol/Principle Power/ASM/Vestas/InovCapital,EDP Renovaveis/Repsol/Principle Power/ASM/Vestas/InovCapital,,Approved,18/06/2018
+16548,Europe,PT,Portugal,,Offshore,,WindFloat - Phase 1,,41.46,-8.85,-50,No,Yes (6 km),Vestas,V80/2000,,0,0,EDP Renovaveis/Repsol/Principle Power/ASM/Vestas/InovCapital,,,2012/06,Dismantled,18/06/2018
+16549,Europe,PT,Portugal,,Offshore,,WindFloat - Phase 2,,39.93,-9.23,-81,No,Yes,,,,30,125000,EDP Renovaveis/Repsol/Principle Power/ASM/Vestas/InovCapital,EDP Renovaveis/Repsol/Principle Power/ASM/Vestas/InovCapital,EDP Renovaveis/Repsol/Principle Power/ASM/Vestas/InovCapital,,Planned,18/06/2018
+16550,Europe,BE,Belgium,,Offshore,,Belwind Alstom Haliade Demonstration,Bligh Bank,51.69,2.84,-30,No,Yes (45 km),Alstom Power,Haliade 150,100,1,6000,Alstom Power/Lydian,Astom Power/Belwind,Astom Power,2013/12,Production,12/1/2018
+16554,Europe,GB,United-Kingdom,,Offshore,,Floating Power Plant Dyfed,,,,,No,Yes,,,,,224000,,,,,Planned,16/02/2018
+16581,Asia,KR,South Korea,,Offshore,,Daejeong,Phase 1,33.23,126.2,-25,No,Yes (1 km),Samsung,7.0-171,,15,105000,Daejeong/Samsung Renewable Energy,,Kopso/Samsung Renewable Energy,,Planned,5/1/2018
+16584,Asia,KR,South Korea,,Offshore,,Kangdong - Ulsan,,35.64,129.48,-40,No,Yes (2 km),,,,28,196000,SK E&C/KEPCO,SK E&C,SK E&C/KEPCO,,Planned,5/1/2018
+16587,America,US,USA,,Offshore,,Icebreaker,,41.61,-81.81,-20,No,Yes (12 km),Vestas,V112/3450,83,6,20700,Fred Olsen Renewables,Fred Olsen Renewables,Fred Olsen Renewables,,Planned,14/02/2018
+16588,Asia,KR,South Korea,,Offshore,,GwinDeok,,33.5,126.3,-45,No,Yes,,,,20,100000,,,,,Planned,5/1/2018
+16590,Asia,KR,South Korea,,Offshore,,Tamra Offshore Wind Farm Project,,33.3614295,126.1751581,-10,Yes,Yes (0.5 km),Doosan,WinDS3000/91,80,10,30000,Doosan Heavy Industries/,,KOSEP/Doosan Heavy Industries/NongHyup,2017/11,Production,29/03/2018
+16591,Europe,IT,Italy,,Offshore,,Golfo di Gela,Butera,37.6,14.5,-20,No,Yes (4 km),,,80,38,136800,Mediterranean Offshore Wind,,TME SpA,,Planned,18/06/2018
+16593,Asia,KR,South Korea,,Offshore,,Hyundai 5.5MW Test Turbine,,33.5586022,126.8071293,0,Yes,Yes,Hyundai,HQ5500/140,100,1,5500,Hyundai/Bardot Group,Hyundai,Hyundai,2014/04,Production,5/1/2018
+16598,Europe,GB,United-Kingdom,,Offshore,,Walney Extension,,54.87,-3.737,13,No,Yes (20 km),Siemens,SWT-7.0-154,,47,329000,Orsted,Orsted,Orsted/PKA/PFA,,Construction,25/04/2018
+16612,Asia,RU,Russia,,Offshore,,Wind Eenrgy Marine Unit,,43.13,131.86,-11,No,Yes,,,,,50000,,,,,Planned,27/11/2017
+16613,Asia,IN,India,,Offshore,,Tamil Nadu - Greenshore Energy,,8.2,78.,-20,No,Yes,,,,,500000,Greenshore Energy Pvt Ltd,,Greenshore Energy Pvt Ltd,,Planned,18/06/2018
+16614,Europe,EE,Estonia,,Offshore,,Baltic Blue E - Phase 1,,58.64,22.34,-14,No,Yes (7 km),,,,28,196000,Baltic Blue Energy OU,Baltic Blue Energy OU,Baltic Blue Energy OU,,Planned,28/05/2018
+16615,Europe,GR,Greece,,Offshore,,Corfu,,39.76,19.57,-6,No,Yes (1 km),,,,45,162000,El. Tech SA,,El. Tech SA,,Planned,8/2/2018
+16616,Europe,GR,Greece,,Offshore,,Diapontia Islands,,39.84,19.53,-80,No,Yes (2 km),,,,32,96000,Venergia Energy AS,,Venergia Energy AS,,Planned,8/2/2018
+16617,Europe,GR,Greece,,Offshore,,Marthakiou,,39.75,19.51,0,No,Yes,,,,11,30250,,,,,Planned,8/2/2018
+16618,Europe,GR,Greece,,Offshore,,Diapontia Wind phase Nine,,39.8,19.45,-27,No,Yes,,,,6,30000,,,,,Planned,8/2/2018
+16619,Europe,GR,Greece,,Offshore,,Mathraki,,39.81,19.45,-29,No,Yes (17 km),,,,55,275000,,,,,Planned,8/2/2018
+16620,Europe,GR,Greece,,Offshore,,Diapontia Wind phase Seven,,39.87,19.48,-41,No,Yes,,,,3,15000,,,,,Planned,8/2/2018
+16621,Europe,GR,Greece,,Offshore,,Othonoi,,39.88,19.44,-2,No,Yes,,,,44,275000,,,,,Planned,8/2/2018
+16622,Europe,GR,Greece,,Offshore,,Diapontia Wind phase Six,,39.86,19.45,-8,No,Yes,,,,4,20000,,,,,Planned,8/2/2018
+16623,Europe,GR,Greece,,Offshore,,Diapontia Wind phase Five,,39.87,19.44,-20,No,Yes,,,,4,20000,,,,,Planned,8/2/2018
+16624,Europe,GR,Greece,,Offshore,,Diapontia Wind phase Four,,39.89,19.45,-22,No,Yes,,,,4,20000,,,,,Planned,8/2/2018
+16625,Europe,GR,Greece,,Offshore,,Diapontia Wind phase Three,,39.9,19.43,-61,No,Yes,,,,4,20000,,,,,Planned,8/2/2018
+16626,Europe,GR,Greece,,Offshore,,Diapontia Wind phase Two,,39.88,19.42,-3,No,Yes,,,,4,20000,,,,,Planned,8/2/2018
+16627,Europe,GR,Greece,,Offshore,,Diapontia Wind phase One,,39.87,19.4,-1,No,Yes,,,,3,15000,,,,,Planned,8/2/2018
+16628,Europe,GR,Greece,,Offshore,,Diapontia Wind phase Eight,,39.85,19.45,-20,No,Yes,,,,1,5000,,,,,Planned,8/2/2018
+16630,Europe,GR,Greece,,Offshore,,Ormos Kalidhonos,,38.31,21.56,-3,No,Yes (1 km),,,,47,141000,,,,,Planned,8/2/2018
+16632,Europe,GR,Greece,,Offshore,,NorthEast South Andros,,38.1,24.79,-679,No,Yes (1 km),,,,85,306000,,,,,Planned,8/2/2018
+16633,Europe,GR,Greece,,Offshore,,Steno Kafirea,,38.2,24.56,-526,No,Yes,,,,50,150000,,,,,Planned,8/2/2018
+16634,Europe,GR,Greece,,Offshore,,Golfe di Kymi,,38.6,24.19,-27,No,Yes (3 km),,,,60,300000,,,,,Planned,8/2/2018
+16635,Europe,GR,Greece,,Offshore,,Porto Lagos/Thassos Park,,40.88,25.5,0,No,Yes (12 km),,,,,156000,,,,,Planned,8/2/2018
+16637,Europe,GR,Greece,,Offshore,,Dikella Alexandroupolis,,40.83,25.6,-39,No,Yes,,,,10,50000,,,,,Planned,8/2/2018
+16638,Europe,GR,Greece,,Offshore,,Thrace Sea,,40.75,25.88,-35,No,Yes (11 km),,,,95,585000,,,,,Planned,8/2/2018
+16640,Europe,GR,Greece,,Offshore,,Thrakiki Wind 1,Thrakiki Aioliki 6,40.82,25.84,-9,No,Yes,,,,,24000,Copelouzos Group,,Copelouzos Group/Enel Greenpower/,,Planned,18/12/2017
+16641,Europe,GR,Greece,,Offshore,,Thrakiki Wind 1,Thrakiki Aioliki 4,40.83,25.84,-3,No,Yes,,,,,24000,Copelouzos Group,,Copelouzos Group/Enel Greenpower/,,Planned,18/12/2017
+16642,Europe,GR,Greece,,Offshore,,Thrakiki Wind 1,Thrakiki Aioliki 1,40.83,25.85,0,No,Yes,,,,,24000,Copelouzos Group,,Copelouzos Group/Enel Greenpower/,,Planned,18/12/2017
+16643,Europe,GR,Greece,,Offshore,,Thrakiki Wind 1,Thrakiki Aioliki 5,40.83,25.81,-7,No,Yes,,,,,24000,Copelouzos Group,,Copelouzos Group/Enel Greenpower/,,Planned,18/12/2017
+16644,Europe,GR,Greece,,Offshore,,Thrakiki Wind 1,Thrakiki Aioliki 2,40.84,25.81,0,No,Yes,,,,,24000,Copelouzos Group,,Copelouzos Group/Enel Greenpower/,,Planned,18/12/2017
+16645,Europe,GR,Greece,,Offshore,,Thrakiki Wind 1,Thrakiki Aioliki 3,40.84,25.78,0,No,Yes,,,,,24000,Copelouzos Group,,Copelouzos Group/Enel Greenpower/,,Planned,18/12/2017
+16646,Europe,GR,Greece,,Offshore,,Thrakiki Wind 1,Thrakiki Aioliki 9,40.79,25.97,-11,No,Yes,,,,,24000,Copelouzos Group,,Copelouzos Group/Enel Greenpower/,,Planned,18/12/2017
+16647,Europe,GR,Greece,,Offshore,,Thrakiki Wind 1,Thrakiki Aioliki 8,40.8,25.97,-7,No,Yes,,,,,24000,Copelouzos Group,,Copelouzos Group/Enel Greenpower/,,Planned,18/12/2017
+16648,Europe,GR,Greece,,Offshore,,Thrakiki Wind 1,Thrakiki Aioliki 7,40.81,25.97,-2,No,Yes,,,,,24000,Copelouzos Group,,Copelouzos Group/Enel Greenpower/,,Planned,18/12/2017
+16649,Europe,GR,Greece,,Offshore,,Methones Kepoe,,39.98,25.49,-21,No,Yes,,,,,209100,Terna Energy SA,Terna Energy SA,Terna Energy SA,,Planned,8/2/2018
+16650,Europe,GR,Greece,,Offshore,,Lemnos,Plaka Keros AG Eirini,39.99,25.52,-35,No,Yes,,,,135,486000,Iberdrola Renewables,,Iberdrola Renewables,,Planned,8/2/2018
+16651,Europe,GR,Greece,,Offshore,,St Efstratios,,39.54,25.9,-209,No,Yes (29 km),,,,89,445000,,,,,Planned,8/2/2018
+16652,Europe,GR,Greece,,Offshore,,Agios Efstratios,,39.54,25.7,-170,No,Yes (30 km),,,,7,24500,Terna Energy SA,Terna Energy SA,Terna Energy SA,,Planned,8/2/2018
+16653,Europe,GR,Greece,,Offshore,,Marathon Bay,,,,,No,Yes,,,,,450000,Terna Energy SA,Terna Energy SA,Terna Energy SA,,Planned,8/2/2018
+16656,Europe,GR,Greece,,Offshore,,Kassos,,35.44,26.99,0,No,Yes (12 km),,,,56,350000,,,,,Planned,8/2/2018
+16657,Europe,IT,Italy,,Offshore,,Golfo di Manfredonia,,41.53,16.28,-30,No,Yes,,,,50,165000,,,,,Planned,18/06/2018
+16659,Asia,IN,India,,Offshore,,ONGC - Commercial Project,,18.6,72.6,-28,No,Yes,,,,,500000,Oil and Natural Gas Corp,,Oil and Natural Gas Corp,,Planned,18/06/2018
+16660,Asia,IN,India,,Offshore,,Tamil Nadu - Bharat Light & Power,,9.4,79.4,-13,No,Yes,,,,,500000,Bharat Light & Power,,Bharat Light & Power,,Planned,18/06/2018
+16661,Europe,GB,United-Kingdom,,Offshore,,Forthwind Offshore Wind Demonstration Project,2-B Energy Test Site,56.16,-3.,-10,No,Yes (1 km),,,120,6,12000,2-B Energy,,2-B Energy,,Approved,16/02/2018
+16663,Europe,GB,United-Kingdom,,Offshore,,Blyth Offshore,NaREC Offshore Wind Demonstration Project,55.17,-1.37,-50,No,Yes (14 km),MHI Vestas Offshore,V164/8000,110,5,41500,EDF-EN,EDF-EN,EDF-EN,2018/06,Production,26/06/2018
+16664,Europe,GB,United-Kingdom,,Offshore,,Fife Energy Park,Methil Offshore Wind Farm Demo Site - Levenmouth demonstration,56.17,-3.2,-5,No,Yes (1 km),Samsung,7.0-171,110,1,7000,Samsung Renewable Energy,Samsung Renewable Energy,ORE Catapult,2013/10,Production,16/02/2018
+16665,Europe,GB,United-Kingdom,,Offshore,,Hornsea Project One - Njord,,53.88,2.7,-35,No,Yes (100 km),Siemens,SWT-7.0-154,,87,609000,Orsted,Orsted,Orsted,,Construction,16/02/2018
+16668,Europe,GB,United-Kingdom,,Offshore,,Dounreay Floating Offshore WDC,DFOWDC,58.65,-3.85,-75,No,Yes,,,,2,10000,Hexicon,Hexicon,Hexicon,,Approved,16/02/2018
+16669,Europe,GB,United-Kingdom,,Offshore,,East Anglia One North,,52.37,2.42,-50,No,Yes (50 km),,,,,800000,,,Scottish Power,,Planned,16/02/2018
+16670,Europe,GB,United-Kingdom,,Offshore,,Thanet 2,,51.41,1.62,-25,No,Yes (15 km),,,,,340000,Vattenfall,Vattenfall,Vattenfall,,Planned,16/02/2018
+16672,Europe,GB,United-Kingdom,,Offshore,,Hornsee Project Four,,54.4,1.27,-50,No,Yes (100 km),,,,112,1000000,Orsted,Orsted,Orsted,,Planned,19/07/2017
+16674,Asia,CN,China,,Offshore,,Jiangsu Rudong Intertidal Demonstration Wind Farm,Extension,32.344,121.5,-14,No,Yes (9 km),Envision,,,25,100000,LongYuan,,LongYuan,2015/12,Production,19/02/2018
+16675,America,US,USA,,Offshore,,Virginia - Dominion 2,,36.91,-75.35,-31,No,Yes (54 km),,,,,1500000,Dominion Energy,,Dominion Energy,,Planned,12/6/2018
+16676,America,US,USA,,Offshore,,Skipjack,,38.65,-74.7,-20,No,Yes (25 km),,,,15,120000,,,,,Planned,14/02/2018
+16677,Europe,GB,United-Kingdom,,Offshore,,Hornsea Project One - Heron Wind,,53.9,1.79,-30,No,Yes (100 km),Siemens,SWT-7.0-154,,87,609000,Orsted,Orsted,Orsted,,Construction,16/02/2018
+16680,Asia,CN,China,,Offshore,,Donghai Bridge Offshore Wind Farm Phase II (Extension) project,,30.77,121.99,-10,No,Yes (8 km),Shanghai Electric,,,27,94000,China Datang Corporation renewable Power Co,,CGN Wind Energy Ltd,2015/12,Production,19/02/2018
+16681,America,US,USA,,Offshore,,New Jersey Ocean Wind,,39.1,-74.3,-25,No,Yes (30 km),,,,,1950000,Orsted,Orsted,Orsted,,Planned,14/02/2018
+16682,Asia,CN,China,,Offshore,,Longyuan Putian Nanri Island 50MW Pilot project,Phase 2,25.2,119.5,1,No,Yes,Siemens,SWT-4.0-130,,54,216000,LongYuan,LongYuan,LongYuan,,Construction,15/11/2017
+16685,Europe,GB,United-Kingdom,,Offshore,,Hornsea Project Three,,53.92,1.33,-40,No,Yes (90 km),Siemens,,,400,2400000,Orsted,Orsted,Orsted,,Planned,16/02/2018
+16687,Europe,GB,United-Kingdom,,Offshore,,Norfolk Boreas,,53.4,2.93,-30,No,Yes,,,,,1800000,Vattenfall,Vattenfall,Vattenfall,,Planned,16/02/2018
+16688,Europe,GB,United-Kingdom,,Offshore,,Blyth Offshore - 3A-4,,55.19,-1.35,-50,No,Yes (13 km),,,,10,58400,EDF-EN,EDF-EN,EDF-EN,,Approved,16/02/2018
+16689,Europe,GB,United-Kingdom,,Offshore,,Dogger Bank Teesside A,,55.4,2.82,-25,No,Yes (200 km),,,,200,1200000,Forewind Consortia,,Statoil/Scottish & Southern,,Approved,18/06/2018
+16690,Europe,GB,United-Kingdom,,Offshore,,Dogger Bank Teesside B,,54.99,2.23,-25,No,Yes (170 km),,,,200,1200000,Forewind Consortia,,RWE,,Approved,18/06/2018
+16693,Europe,GB,United-Kingdom,,Offshore,,East Anglia Two,,52.7,2.5,-41,No,Yes (50 km),,,,,800000,Scottish Power/Vattenfall,,Scottish Power/Vattenfall,,Planned,16/02/2018
+16694,America,US,USA,,Offshore,,New England Aqua Ventus III,,43.68,-69.32,-104,No,Yes,,,,,4508000,University of Maine,,,,Planned,14/02/2018
+16698,Europe,GB,United-Kingdom,,Offshore,,Norfolk Vanguard,,52.87,2.67,-30,No,Yes,,,,225,1800000,Vattenfall,Vattenfall,Vattenfall,,Planned,16/02/2018
+16700,Europe,GB,United-Kingdom,,Offshore,,East Anglia Three,,52.7,2.86,-40,No,Yes (70 km),,,136,172,1200000,Scottish Power/Vattenfall,,Scottish Power,,Approved,16/02/2018
+16704,Europe,GB,United-Kingdom,,Offshore,,TLP Wind,,58.6,-6.2,-120,No,Yes,,,,1,5000,,,ORE Catapult/,,Planned,16/02/2018
+16708,Europe,DE,Germany,,Offshore,,Deutsche Bucht Pilot,,54.33,5.81,-40,No,Yes (100 km),MHI Vestas Offshore,V164/8000,,2,16000,,,,,Planned,13/02/2018
+16711,America,US,USA,,Offshore,,New England Aqua Ventus II,,43.69,-69.32,-98,No,Yes,,,,,480000,,,,,Planned,14/02/2018
+16714,America,US,USA,,Offshore,,Fishermen’s Atlantic City Windfarm Phase I,FACW,39.31,-74.41,-10,No,Yes (5 km),Siemens,SWT-4.0-130,,6,24000,Fishermen’s Energy,Fishermen’s Energy,Fishermen’s Energy,,Approved,14/02/2018
+16722,America,US,USA,,Offshore,,Deepwater One - South Fork,,41.9,-71.9,-40,No,Yes (35 km),,,,12,96000,Deepwater LLC,Deepwater LLC,Deepwater LLC,,Planned,14/02/2018
+16723,Asia,CN,China,,Offshore,,Xiangshui Intertidal Pilot Project - Extension,,34.5,119.9,-1,Yes,Yes,Dongfang Electric Corporation,,,1,3000,Three Gorges,,Three Gorges,2013/12,Production,19/02/2018
+16726,Europe,DE,Germany,,Offshore,,Arcadis Ost 1,,54.82,13.64,-45,No,Yes (19 km),GE Energy,Haliade 150,105,58,348000,KNK Wind GmbH/,,KNK Wind GmbH/,,Approved,13/02/2018
+16730,America,US,USA,,Offshore,,Keuka 25MW Rim Drive Prototype,,,,,No,Yes,,,,,25000,Keuka Energy,,Keuka Energy,,Planned,14/02/2018
+16731,America,US,USA,,Offshore,,Keuka 125kW Rim Drive Prototype,,,,,No,Yes,,,,1,125,Keuka Energy,,Keuka Energy,2015/10,Production,14/02/2018
+16743,America,US,USA,,Offshore,,Virginia Offshore Wind Technology Advancement Project,,36.91,-75.49,-30,No,Yes (35 km),GE Energy,Haliade 150,100,2,12000,Dominion Energy,Dominion Energy,Dominion Energy,,Planned,12/6/2018
+16744,America,US,USA,,Offshore,,Deepwater One,Deepwater Wind Energy Center (DWEC),41.1,-71.1,-40,No,Yes (35 km),,,,200,1500000,Deepwater LLC,,Deepwater LLC,,Planned,14/02/2018
+16747,America,US,USA,,Offshore,,New York Wind Energy Area,Empire Wind,40.3,-73.32,-30,No,Yes (40 km),,,,,2000000,Statoil,Statoil,Statoil,,Planned,14/02/2018
+16749,America,BR,Brazil,,Offshore,,Asa Branca 1 - CEMAB 1,,-2.96,-39.65,-9,No,Yes,,,,50,400000,Asa Branca,,Eolica Brasil,,Planned,14/06/2018
+16750,Europe,GB,United-Kingdom,,Offshore,,Triton Knoll Wind Farm,Part 2,53.479,0.837,-20,No,Yes (35 km),MHI Vestas Offshore,V164/9500,140,30,285000,RWE/Statkraft,RWE,RWE,,Approved,16/02/2018
+16751,Europe,GB,United-Kingdom,,Offshore,,Triton Knoll Wind Farm,Part 3,53.479,0.837,-20,No,Yes (35 km),MHI Vestas Offshore,V164/9500,140,30,285000,RWE/Statkraft,RWE,RWE,,Approved,16/02/2018
+16753,America,BR,Brazil,,Offshore,,Asa Branca - Pilot Project,,-2.69,-39.93,-9,No,Yes,,,,2,12000,Asa Branca,,Eolica Brasil,,Planned,14/06/2018
+16754,America,BR,Brazil,,Offshore,,Asa Branca 2 - CEMAB 2,,-2.69,-39.93,-9,No,Yes,,,,50,400000,Asa Branca,,Eolica Brasil,,Planned,14/06/2018
+16755,America,BR,Brazil,,Offshore,,Asa Branca 3 - CEMAB 3,,-2.69,-39.93,-9,No,Yes,,,,50,400000,Asa Branca,,Eolica Brasil,,Planned,14/06/2018
+16756,Asia,CN,China,,Offshore,,Cixi II,,30.3,121.4,-2,No,Yes,,,,,250000,,,Three Gorges,,Planned,7/1/2016
+16758,Europe,GB,United-Kingdom,,Offshore,,Hywind Scotland Pilot Park,,57.5,-1.3,-115,No,Yes,Siemens,,101,5,30000,Statoil,Statoil,Statoil/Masdar,2017/10,Production,22/05/2018
+16761,Europe,GB,United-Kingdom,,Offshore,,Rampion,,50.66,0.2,-30,No,Yes (19 km),Vestas,V112/3450,,116,400200,E.ON Climate Renewables,E.ON Climate Renewables,E.ON Climate Renewables/Green Investment Bank/Enbridge,,Construction,16/02/2018
+16762,Europe,GB,United-Kingdom,,Offshore,,Gunfleet Sands 3 Demonstration,,51.7,1.19,-10,No,Yes (9 km),Siemens,SWT-6.0-120,84,2,12000,Orsted,Orsted,Orsted,2013/04,Production,16/02/2018
+16767,Europe,GB,United-Kingdom,,Offshore,,Seagreen Bravo,Firth of Forth Phase ,56.572,-1.658,-48,No,Yes,,,126,75,525000,,,Scottish & Southern/Fluor UK Limited,,Approved,16/02/2018
+16768,Europe,GB,United-Kingdom,,Offshore,,Seagreen Alpha,Firth of Forth Phase ,56.611,-1.821,-50,No,Yes (30 km),,,126,75,525000,,,Scottish & Southern/Fluor UK Limited,,Approved,16/02/2018
+16769,Europe,GB,United-Kingdom,,Offshore,,EOWDC,European Offshore Wind Deployment Centre,57.23,-1.99,-25,No,Yes (3 km),MHI Vestas Offshore,V164/8400,120,9,75600,Vattenfall/Technip/Aberdeen Renewable Energy Group,,Vattenfall,,Construction,29/05/2018
+16770,Europe,GB,United-Kingdom,,Offshore,,Galloper,,51.88,2.4,-31,No,Yes,Siemens,SWT-6.0-154,,56,353000,,,Siemens/Green Investment Bank/Macquarie/RWE/Sumitomo,,Construction,16/02/2018
+16772,Europe,GB,United-Kingdom,,Offshore,,Moray East,,58.188,-2.72,-45,No,Yes (25 km),MHI Vestas Offshore,V164/9500,,117,1111500,EDP Renovaveis,,EDP Renovaveis/Three Gorges/Engie,,Approved,16/02/2018
+16773,Europe,GB,United-Kingdom,,Offshore,,Dogger Bank Creyke Beck B,,54.98,1.68,-25,No,Yes (140 km),,,,200,1200000,Forewind Consortia,,Statoil/Scottish & Southern,,Approved,18/06/2018
+16775,America,BR,Brazil,,Offshore,,Asa Branca 4 - CEMAB 4,,-2.69,-39.93,-9,No,Yes,,,,,10390000,Asa Branca,,Eolica Brasil,,Planned,14/06/2018
+16787,Europe,IE,Ireland,,Offshore,,Arklow Bank,Phase 2,52.81,-5.95,-12,No,Yes (10 km),GE Energy,,,193,494800,GE Wind Energy/Acciona Energia/Scottish & Southern,,GE Wind Energy,,Approved,10/1/2018
+16790,Europe,GB,United-Kingdom,,Offshore,,East Anglia One,,52.23,2.48,-40,No,Yes (50 km),Siemens,SWT-7.0-154,120,102,714000,Scottish Power/Vattenfall,Siemens,Scottish Power,,Approved,16/02/2018
+16792,Europe,DE,Germany,,Offshore,,EnBW Baltic 1,,54.61,12.65,-18,No,Yes (17 km),Siemens,SWT-2.3-93,67,21,48300,EnBW Baltic 1,EnBW Baltic 1,EnBW Energie/,2011/05,Production,5/3/2018
+16793,Asia,CN,China,,Offshore,,Xiangshui Offshore Demonstation Project,,34.5,120.1,-10,No,Yes (9 km),Siemens,SWT-4.0-130,,37,148000,,,Three Gorges,2016/10,Production,19/02/2018
+16794,America,US,USA,,Offshore,,North-Carolina - Kitty Hawk,,36.34,-75.13,-40,No,Yes (60 km),,,,,1500000,Avangrid Renewables,,Avangrid Renewables,,Planned,14/02/2018
+16796,Europe,FI,Finland,,Offshore,,Ajos Repowering,Onshore Part,65.6599539622603,24.5378337896247,-8,No,Yes,Siemens,SWT-3.2-113,92.5,5,16000,OX2,OX2,IKEA,2017/10,Production,12/6/2018
+16800,Europe,DE,Germany,,Offshore,,BalticEagle,,54.83,13.87,-40,No,Yes (30 km),,,,83,500000,Iberdrola Renewables,Iberdrola Renewables,Iberdrola Renewables,,Planned,13/02/2018
+16801,Europe,DE,Germany,,Offshore,,Gicon SOF,,,,,No,Yes,,,,1,6000,,,,,Planned,13/02/2018
+16802,Europe,DE,Germany,,Offshore,,Windanker,,54.89,14.2,-45,No,Yes (42 km),,,,42,250000,Iberdrola Renewables,,Iberdrola Renewables,,Planned,13/02/2018
+16805,Europe,NL,Netherlands,,Offshore,,Borssele III-IV,Blauwwind,51.74,2.88,-27,No,Yes (45 km),MHI Vestas Offshore,V164/8000,,93,744000,,,Partners Group/Eneco/Shell Wind Energy/,,Approved,15/02/2018
+16806,Europe,DE,Germany,,Offshore,,Adlergrund GAP,,54.82,14.13,-35,No,Yes (40 km),,,,31,155000,BEC Energie Consult GmbH,,BEC Energie Consult GmbH,,Planned,13/02/2018
+16807,America,US,USA,,Offshore,,US Wind Inc Maryland Offshore Wind Farm,,38.34,-74.76,-25,No,Yes (26 km),,,,,750000,,,,,Planned,14/02/2018
+16808,Asia,CN,China,,Offshore,,China Guangdong Nuclear Power Pingtan Dalian Island 300MW offshore windfarm,,25.5,119.9,-10,No,Yes (10 km),,,,600,3000000,CGN Wind Energy Ltd,,,,Approved,22/02/2018
+16809,Asia,CN,China,,Offshore,,Cangnan #1 Offshore Wind Power Project,,27.4,120.7,-5,No,Yes,,,,,300000,China Datang Corporation renewable Power Co,,China Datang Corporation renewable Power Co,,Planned,2/7/2015
+16811,Europe,GB,United-Kingdom,,Offshore,,Ideol-Atlantis Energy Project 2,,,,,No,Yes,,,,,1400000,Ideol/Atlantis Energy,,Ideol/Atlantis Energy,,Planned,3/4/2018
+16812,Asia,CN,China,,Offshore,,Daishan 1# offshore wind farm,,30.2,122.4,-15,No,Yes,,,,,300000,,,,,Planned,7/1/2016
+16815,Europe,FI,Finland,,Offshore,,Ajos Repowering,Offshore Part,65.6615015822451,24.5012664849921,-1,Yes,Yes,Siemens,SWT-3.3-130,92.5,8,26400,OX2,OX2,IKEA,2017/10,Production,12/6/2018
+16816,Europe,FR,France,,Offshore,,InFlow,Nénuphar twinfloat,43.2,4.8,-100,No,Yes,,,,1,1200,,,Areva/,,Approved,7/2/2018
+16817,Europe,FR,France,,Offshore,,Mistral,Nenuphar test site,43.3,4.9,-60,No,Yes (8 km),,,,,10000,,,EDF-EN/,,Approved,7/2/2018
+16818,America,US,USA,,Offshore,,Excelsior,,40.43,-72.77,-43,No,Yes (35 km),,,,,400000,PNE,,,,Planned,13/07/2017
+16819,Europe,DE,Germany,,Offshore,,Wikinger Süd,,54.82,14.12,-30,No,Yes (40 km),,,,18,85000,Iberdrola Renewables,Iberdrola Renewables,Iberdrola Renewables,,Planned,13/02/2018
+16820,Europe,DE,Germany,,Offshore,,Gode Wind III,,54.37,7.11,-30,No,Yes (40 km),,,,8,111000,PNE/Orsted,,Orsted,,Approved,13/02/2018
+16821,Europe,FR,France,,Offshore,,SpinFloat Demonstrator,,43.3,4.,-83,No,Yes,,,,1,6000,Eolfi,,,,Planned,7/2/2018
+16826,Europe,NL,Netherlands,,Offshore,,Borssele II,,51.64,3.7,0,No,Yes (45 km),Siemens,SWT-8.0-154,,47,376000,Orsted,Orsted,Orsted,,Approved,15/02/2018
+16827,Europe,DE,Germany,,Offshore,,Sandbank Extension,,55.2,6.86,-30,No,Yes (95 km),,,,24,240000,Vattenfall,,Vattenfall,,Approved,13/02/2018
+16829,Europe,DE,Germany,,Offshore,,Kaskasi II,Hochsee testfeld Helgoland,54.49,7.7,-23,No,Yes (48 km),,,,34,272000,RWE,RWE,RWE,,Planned,13/02/2018
+16840,Asia,CN,China,,Offshore,,Zhuanghe (Future Areas),,39.5,123.1,0,No,Yes,,,,,900000,,,,,Approved,23/02/2018
+16841,Asia,CN,China,,Offshore,,Zhuanghe Area II,,39.6,123.1,-3,No,Yes,,,,,300000,,,,,Approved,19/07/2016
+16842,Asia,CN,China,,Offshore,,Zhuanghe Area III,,39.6,123.1,-3,No,Yes,,,,,300000,,,,,Approved,21/02/2018
+16843,Asia,CN,China,,Offshore,,Jiangsu Guangheng New Energy Rudong 300MW offshore wind farm,,32.4,121.5,-13,No,Yes,,,,,300000,,,,,Planned,7/1/2016
+16844,Europe,DK,Denmark,,Offshore,,Kriegers Flak,Kriegers Flak K2-K3,55.3,12.94,-20,No,Yes (20 km),Siemens-Gamesa,SG 8.0-167 DD,,72,605000,Vattenfall,Vattenfall,Vattenfall,,Construction,29/06/2018
+16845,Asia,CN,China,,Offshore,,Putian Pinghai bay offshore demonstration project,,25.169,119.384,-15,No,Yes (8 km),XEMC-Darwind,XE/DD115,81,10,50000,Fujian Investment and Development Group,,Fujian Investment and Development Group,2016/07,Production,19/02/2018
+16846,Asia,CN,China,,Offshore,,Xiangshan Offshore Windfarm,Phase 1,29.5,122.,-10,No,Yes (15 km),,,,,150000,China Guodian,,China Guodian,,Approved,7/1/2016
+16847,America,US,USA,,Offshore,,Nautica Windpower  Advanced Floating Turbine  AFT  Offshore Wind Farm,,,,,No,Yes,,,,1,,Nautica Windpower,,Nautica Windpower,,Planned,14/02/2018
+16848,Asia,CN,China,,Offshore,,Laoting Yuetuo Island Offshore Windfarm 300MW Demonstration Project,,39.118,9.,39,No,Yes,Sinovel,,90,75,300000,China Guodian,,China Guodian,,Approved,23/02/2018
+16849,Asia,CN,China,,Offshore,,Longyuan Putian Nanri Island 350MW project,Phase 3,25.4,119.7,-2,No,Yes,,,,,188000,LongYuan,LongYuan,LongYuan,,Approved,7/1/2016
+16850,Asia,CN,China,,Offshore,,Huayuankou,,39.5,122.7,-2,No,Yes,,,,,400000,,,,,Approved,7/1/2016
+16851,Asia,CN,China,,Offshore,,Jiangsu Rudong Intertidal Demonstration Wind Farm,Extension,32.344,121.5,-14,No,Yes (9 km),Siemens,,,25,100000,LongYuan,,Longyuan,2015/12,Production,19/02/2018
+16852,Asia,TW,Taiwan,,Offshore,,Formosa 1 OWF,Phase II,24.71,120.81,-20,No,Yes (1 km),,,,30,120000,Swancor,,Macquarie/Orsted/Swancor,,Approved,15/12/2017
+16853,Asia,TW,Taiwan,,Offshore,,Xinbei Zop 1,,25.31,121.46,-50,No,Yes,,,,,450000,,,,,Planned,15/12/2017
+16854,Europe,DK,Denmark,,Offshore,,Horns Rev 3,,55.703,7.689,-15,No,Yes (30 km),MHI Vestas Offshore,V164/8000,102,49,406700,Vattenfall,Vattenfall,Vattenfall,,Construction,29/06/2018
+16856,Europe,DK,Denmark,,Offshore,,Nissum Bredning,,56.67,8.244,-3,No,Yes (2 km),Siemens,SWT-7.0-154,97.3,4,28000,Nissum Bredning Vindmaullelaug/Jysk Energi,Siemens,Nissum Bredning Vindmaullelaug/Jysk Energi,2018/03,Production,28/06/2018
+16866,Europe,DE,Germany,,Offshore,,Gennaker,,54.61,12.61,-15,No,Yes (15 km),Siemens,SWT-8.0-154,96,103,865200,WPD,WPD,WPD,,Planned,13/02/2018
+16869,Europe,DE,Germany,,Offshore,,EnBW He Dreiht,,54.365,6.186,-38,No,Yes (95 km),,,,90,900000,EnBW Energie,EnBW Energie,EnBW Energie,,Approved,13/02/2018
+16870,America,US,USA,,Offshore,,Garden State Offshore Energy,,38.66,-74.7,-23,No,Yes,,,,,680000,,,,,Planned,14/02/2018
+16883,Europe,DE,Germany,,Offshore,,OWP Albatros 1,,54.52,6.28,-40,No,Yes (110 km),Siemens,SWT-7.0-154,,16,112000,EnBW Energie,EnBW Energie,EnBW Energie/Enbridge,,Approved,13/02/2018
+16884,Asia,CN,China,,Offshore,,Shengsi #2 Offshore Wind Power Project,,30.63,121.65,-3,No,Yes (25 km),,,,,400000,,,,,Planned,7/1/2016
+16885,Europe,DE,Germany,,Offshore,,Gode Wind IV,,54.43,7.76,-30,No,Yes (42 km),,,,42,336000,PNE/Orsted,PNE,Orsted,,Approved,14/02/2018
+16887,Europe,ES,Spain,,Offshore,,DemoSATH,,,,,No,Yes,,,,1,2000,,,,,Approved,19/01/2018
+16889,Europe,DE,Germany,,Offshore,,OWP West,,54.3,6.16,-30,No,Yes (70 km),,,,18,240000,Orsted,,Orsted,,Approved,13/02/2018
+16891,America,US,USA,,Offshore,,MAKANI Airborne Wind Turbine AWT  Offshore Wind Farm,,,,,No,Yes,,,,,,,,,,Planned,14/02/2018
+16892,Asia,JP,Japan,,Offshore,,Kamaishi Ocean Energy Demonstration Field,,39.2,142.,-136,No,Yes (9 km),,,,,,,,Iwate Prefecture,,Planned,16/01/2018
+16894,Europe,NL,Netherlands,,Offshore,,Borssele V,Leeghwater,51.71,3.,-30,No,Yes (45 km),,,,,20000,,,,,Approved,15/02/2018
+16895,Europe,GB,United-Kingdom,,Offshore,,Seagreen Golf,Firth of Forth Phase ,56.263,-1.711,-50,No,Yes (45 km),,,,45,225000,,,Scottish & Southern/Fluor UK Limited,,Planned,16/02/2018
+16896,Asia,CN,China,,Offshore,,Shengsi #3 Offshore Wind Power Project,,30.57,121.82,-8,No,Yes (32 km),,,,,200000,,,,,Planned,7/1/2016
+16898,Europe,GB,United-Kingdom,,Offshore,,Seagreen Foxtrot,Firth of Forth Phase ,56.566,-1.795,-50,No,Yes (40 km),,,,113,565000,,,Scottish & Southern/Fluor UK Limited,,Planned,16/02/2018
+16899,Asia,CN,China,,Offshore,,Guodian Zhoushan Putuo #6 Offshore Wind Farm,,29.7,122.1,-15,No,Yes (10 km),,,95,63,252000,China Guodian,,China Guodian,,Construction,20/02/2018
+16900,Europe,GB,United-Kingdom,,Offshore,,Seagreen Echo,Firth of Forth Phase ,56.27,-1.47,-50,No,Yes (70 km),,,,121,605000,,,Scottish & Southern/Fluor UK Limited,,Planned,16/02/2018
+16901,Europe,DE,Germany,,Offshore,,Nordsee Three,,54.68,6.894,-30,No,Yes (48 km),,,100,60,400000,RWE,,RWE/Northland Power,,Approved,5/7/2018
+16902,Asia,CN,China,,Offshore,,China Guangdong Nuclear Power Daishan 4 offshore wind farm,,30.42,121.963,-10,No,Yes (20 km),,,,,300000,,,,,Planned,7/1/2016
+16903,Asia,CN,China,,Offshore,,Rudong Zhongshui (intertidal) 100MW demonstration project,,32.4,121.4,-18,No,Yes,CSIC HZ Windpower,H102-2000,,10,20000,,,,2014/06,Production,19/02/2018
+16904,Europe,BE,Belgium,,Offshore,,THV Mermaid,Zone 7,51.72,2.74,-30,No,Yes (48 km),,,,48,246000,THV Mermaid,,Otary/Electrabel,,Approved,5/3/2018
+16905,Europe,BE,Belgium,,Offshore,,Seastar,,51.63,2.86,-20,No,Yes (40 km),,,,41,246000,Seastar NV,,Elicio/Aspiravi/Otary/,,Approved,9/3/2018
+17066,Asia,KR,South Korea,,Offshore,,Demonstrative offshore windpark of Jeju island,,33.5751954,126.7854766,-4,Yes,Yes,STX Windpower,,,1,2000,Korean Institute of Energy Research,,,2012/05,Production,5/1/2018
+17374,Europe,GB,United-Kingdom,,Offshore,,Seagreen Delta,Firth of Forth Phase ,56.37,-1.52,-50,No,Yes (70 km),,,,121,605000,,,Scottish & Southern/Fluor UK Limited,,Planned,16/02/2018
+17375,Europe,GB,United-Kingdom,,Offshore,,Seagreen Charlie,Firth of Forth Phase ,56.471,-1.576,-50,No,Yes (60 km),,,,122,610000,,,Scottish & Southern/Fluor UK Limited,,Planned,16/02/2018
+17376,Europe,GB,United-Kingdom,,Offshore,,Kincardine Offshore Windfarm Offshore Wind Farm,,57.-1,86.,-60,No,Yes (15 km),,,,7,50000,,,ACS/,,Approved,16/02/2018
+17441,Asia,JP,Japan,,Offshore,,Fukushima,Forward,37.311,141.251,-100,No,Yes (25 km),Subaru,Subaru 80/2.0,66,1,2000,Marubeni/Mitsubishi,Marubeni,Marubeni,2013/11,Production,16/04/2018
+17442,Asia,JP,Japan,,Offshore,,Fukushima,Forward,37.308,141.262,-100,No,Yes (25 km),Mitsubishi,SeaAngel 7/165,105,1,7000,Marubeni/Mitsubishi,Marubeni,Marubeni,2015/07,Production,16/04/2018
+18036,Europe,ES,Spain,,Offshore,,Plocan,Plataforma Oceanica de Canarias - Phase 2,28.4,-15.36,-3320.7,No,Yes (1 km),,,,,50000,Plocan,Plocan,Plocan,,Planned,19/01/2018
+18252,Europe,NL,Netherlands,,Offshore,,Irene Vorrink II,H.v.d.Kroonenberg,52.598,5.588,-3,Yes,Yes,Nordtank,NTK600/43,,9,5400,De Wolff/Vattenfall,Vattenfall,Vattenfall,1997/04,Production,21/03/2018
+18503,Asia,CN,China,,Offshore,,Lingang offshore wind farm demonstration project (phase 2),,30.9,122.1,-5,No,Yes (20 km),,,,,98000,,,,,Planned,2/12/2014
+18504,Asia,JP,Japan,,Offshore,,Floating Offshore Wind Turbine Demonstration Project - Kabashima - 100kW,,32.74,128.995,-90,No,Yes (1 km),,,23,0,0,,,,,Dismantled,16/01/2018
+18505,Asia,JP,Japan,,Offshore,,Choshi,,35.681,140.821,-10,No,Yes (3 km),Mitsubishi,MWT-92,80,1,2400,Tokyo Electric Power Company,,Tokyo Electric Power Company/NEDO,2013/04,Production,16/04/2018
+18506,Asia,JP,Japan,,Offshore,,Kitakyushu Offshore Demonstration Project,,33.9582948,130.762553,-10,Yes,Yes (2 km),JSW,J82,80,1,2000,J-Power/NEDO,,J-Power/NEDO,2013/06,Production,18/04/2018
+18507,Asia,JP,Japan,,Offshore,,Mutsu-Ogawara Port,,41.141,4.,-10,No,Yes (1 km),,,80,25,82500,Mutsu-Ogawara offshore,,,,Planned,16/01/2018
+18508,Asia,JP,Japan,,Offshore,,Maeda - Yasuoka,,34.3,130.87,-20,No,Yes,,,80,,60000,Maeda Corporation,,Maeda Corporation,,Planned,16/01/2018
+18509,Asia,JP,Japan,,Offshore,,Fukushima,Phase III,37.3,141.3,-130,No,Yes,,,,143,1000000,Furukawa Electric Co/Hitachi/Marubeni/Mitsubishi,,Furukawa Electric Co/Hitachi/Marubeni/Mitsubishi,,Planned,16/01/2018
+18511,Asia,JP,Japan,,Offshore,,Ishikari Bay,,43.211,141.257,-20,No,Yes (4 km),,,,26,104000,Green Power Investment Corporation,,Green Power Investment Corporation,,Planned,16/01/2018
+18512,Asia,JP,Japan,,Offshore,,Ibaraki Kashima port North,Phase 1,35.9,140.73,-10,No,Yes (1 km),,,,20,100000,,,,,Approved,16/01/2018
+18514,Europe,NO,Norway,,Offshore,,Seawind Systems Demonstator,,59.16,5.18,-40,No,Yes,Seawind,Seawind 6,,1,6200,Seawind/Olav Olsen,Seawind/Olav Olsen,Seawind/Olav Olsen,,Approved,8/6/2018
+18515,Europe,FR,France,,Offshore,,SEM-REV,,47.24,-2.778,-32,No,Yes (22 km),,,,,8000,SEM-REV,SEM-REV,,2015/08,Production,7/2/2018
+18516,Europe,NO,Norway,,Offshore,,Test Area Stadt,,62.19,4.93,-200,No,Yes (8 km),,,,2,10000,,,,,Approved,8/6/2018
+18519,Asia,CN,China,,Offshore,,Longyuan Rudong Intertidal Trial Wind Farm -Extension,,32.4,121.4,-16,No,Yes,,,,12,49200,LongYuan,LongYuan,LongYuan,2014,Production,19/02/2018
+18520,Europe,ES,Spain,,Offshore,,Gamesa 5MW Test Turbine,Arinaga Offshore,27.85,-15.4,0,No,Yes,Gamesa,G128/4500,,1,4500,Gamesa,Gamesa,Gamesa,2013/10,Production,19/01/2018
+18521,Europe,FR,France,,Offshore,,FLOATGEN Demonstrator 1  IDEOL Gamesa,,47.238,-2.778,-30,No,Yes (19 km),Vestas,V80/2000,,1,2000,,Ideol,Ideol,2018,Production,29/05/2018
+18523,Europe,SE,Sweden,,Offshore,,Svenska Björn,,59.57,19.87,-15,No,Yes (50 km),,,,,,Solid Vind,,,,Planned,15/01/2018
+18524,Europe,SE,Sweden,,Offshore,,Vänern,Gasslingegrund Offshore,59.2648624,13.3783201,44,Yes,Yes,Winwind,WWD-3-100,90,3,9000,Windpark Vanern,Windpark Vanern/,,2009/12,Production,15/01/2018
+18525,Europe,SE,Sweden,,Offshore,,Yttre Stengrund 5,,56.1671453,16.193429,-36,Yes,Yes (3 km),Neg Micon,NM72/2000,60,0,0,Vattenfall/OX2,,,2001/09,Dismantled,15/01/2018
+18526,Asia,CN,China,,Offshore,,Putian Pinghai bay offshore project phase B E Offshore Wind Farm,,25.115,119.286,-6,No,Yes (6 km),,,,,250000,,,,,Approved,7/1/2016
+18527,Europe,SE,Sweden,,Offshore,,Rata Storgrund - phase 2,,64.7,21.1,7,No,Yes,,,,,,,,Rewind Offshore AB,,Planned,15/01/2018
+18528,Asia,CN,China,,Offshore,,Guangdong Yudean Zhanjiang Wailuo Offshore wind farm Offshore Wind Farm,,20.58,110.62,-7,No,Yes (7 km),,,,36,198000,Guangdong Yudean,,Guangdong Yudean,,Approved,22/02/2018
+18529,Asia,CN,China,,Offshore,,Xiangshui Intertidal Pilot Project - Extension,,34.5,119.9,-1,Yes,Yes,Goldwind,,,1,3000,Three Gorges,,Three Gorges,2013/12,Production,19/02/2018
+18530,Asia,CN,China,,Offshore,,Jiaxing 1 Offshore Project,,30.44,121.47,-7,No,Yes (21 km),,,,,300000,,,,,Approved,7/1/2016
+18531,Asia,CN,China,,Offshore,,Datang Laizhou Bay Demonstration Project,,37.2,119.7,-8,No,Yes,China Creative Wind Energy,,,67,200000,China Datang Corporation renewable Power Co,,China Datang Corporation renewable Power Co,,Planned,7/1/2016
+18532,Asia,CN,China,,Offshore,,Changxing Floating Modular Foundation Demonstration Project,,38.4,119.4,-24,No,Yes,,,,0,0,Shandong Changxing Wind Power Technology Co.,,,2012,Dismantled,4/9/2017
+18533,Asia,CN,China,,Offshore,,CNOOC Weihai - Rushan - Southern Block,,36.7,121.6,-6,No,Yes,,,,,700000,China National Offshore Oil Corp,China National Offshore Oil Corp,China National Offshore Oil Corp,,Planned,7/1/2016
+18534,Asia,CN,China,,Offshore,,CNOOC Weihai - Wendeng - Eastern Block,,36.9,122.,-4,No,Yes,,,,,100000,China National Offshore Oil Corp,China National Offshore Oil Corp,China National Offshore Oil Corp,,Planned,7/1/2016
+18535,Asia,CN,China,,Offshore,,Zhongmin Fujian XEMC Test Turbine (Nearshore),,,,,No,Yes,XEMC-Darwind,XE/DD115,100,1,5000,Xemc Windpower,Xemc Windpower,Xemc Windpower,2012/03,Production,19/02/2018
+18536,Asia,CN,China,,Offshore,,Guodian United Power 6MW Prototype,,37.1,119.5,-1,Yes,Yes,Guodian United Power,UP136,90,1,6000,China Guodian,,China Guodian,2012/12,Production,19/02/2018
+18537,Asia,CN,China,,Offshore,,Jiangsu Longyuan Dafeng Offshore Wind Farm phase 2 Offshore Wind Farm,,33.27,121.14,-4,No,Yes,,,,,200000,LongYuan,,LongYuan,,Construction,20/02/2018
+18538,Asia,CN,China,,Offshore,,Guanyun,,34.6,119.8,-3,No,Yes (15 km),,,,,300000,China Guodian,,China Guodian,,Planned,7/1/2016
+18539,Asia,CN,China,,Offshore,,Huadian International Shandong Jimo offshore wind farm - Phase 1,,36.4,120.9,0,No,Yes,,,,,100000,Huadian Power,,Huadian Power,,Planned,7/1/2016
+18540,Asia,CN,China,,Offshore,,Huadian International Shandong Jimo offshore wind farm - Phases 2/3,,36.3,120.9,-11,No,Yes,,,,,200000,Huadian Power,,Huadian Power,,Planned,7/1/2016
+18541,Asia,CN,China,,Offshore,,Huadian Yuhuan Offshore Wind Farm - Phase 2,,28.18,121.55,-5,No,Yes (11 km),,,,,300000,Huadian Power,,Huadian Power,,Approved,22/02/2018
+18542,Asia,CN,China,,Offshore,,Jiaxing Offshore Wind Power Project - Phase 2,,30.6,121.4,-8,No,Yes,Windey,,,,300000,Concord New Energy (China Windpower),,,,Approved,24/11/2017
+18543,Asia,CN,China,,Offshore,,Jiaxing Offshore Wind Power Project - Phase 3,,30.6,121.4,-8,No,Yes (18 km),,,,,200000,China Datang Corporation renewable Power Co,,,,Approved,7/1/2016
+18545,Asia,CN,China,,Offshore,,Longyuan Putian Nanri Island 50MW Pilot project,Phase 1,25.2,119.5,1,No,Yes,Siemens,SWT-4.0-130,90,4,16000,LongYuan,LongYuan,LongYuan,2014,Production,19/02/2018
+18546,Asia,CN,China,,Offshore,,Quangang Shanyao offshore wind farm,,24.8,118.8,-9,No,Yes,,,,,80000,,,,,Planned,7/1/2016
+18547,Asia,CN,China,,Offshore,,Sheyang North Area H1#,,33.96,120.64,-11,No,Yes (15 km),,,,,150000,,,,,Planned,7/1/2016
+18548,Asia,CN,China,,Offshore,,Sheyang North Area H2#,,34.16,120.69,-12,No,Yes (32 km),,,,,300000,,,,,Planned,23/02/2018
+18549,Asia,CN,China,,Offshore,,Sheyang North Area H3#,,34.6,120.76,-17,No,Yes (36 km),,,,,300000,,,,,Planned,7/1/2016
+18550,Asia,CN,China,,Offshore,,Tongzhou,,32.2,121.5,-1,No,Yes,,,,,100000,Renewable Energy Asia Group Limited,,Renewable Energy Asia Group Limited,,Planned,7/1/2016
+18551,Asia,CN,China,,Offshore,,Dongtai wind farm stage 5,,32.9,121.4,-2,No,Yes,,,,,300000,,,,,Planned,2/12/2014
+18552,Asia,CN,China,,Offshore,,DDHI Composite Bucket Foundation Test Project,,31.69,121.85,3,No,Yes,XEMC-Darwind,,100,1,2500,DaoDa Heavy Industry Group,,DaoDa Heavy Industry Group,2010/11,Production,19/02/2018
+18553,Asia,CN,China,,Offshore,,Huaneng Rongcheng Power Prototype Demonstration Project,,37.4,122.4,0,No,Yes,Sinovel,SL 3000/105,80,2,6000,Huaneng Group,,Huaneng Group,2009/12,Production,19/02/2018
+18554,Asia,CN,China,,Offshore,,Jiangsu Rudong 150MW Offshore,Phase I,32.4,121.6,-6,No,Yes,Goldwind,GW109/2500,,20,50000,LongYuan,LongYuan,LongYuan,2013/03,Production,19/02/2018
+18555,Asia,CN,China,,Offshore,,Jiangsu Rudong 150MW Offshore,Phase I,32.4,121.6,-6,No,Yes,Siemens,SWT-2.3-101,,21,48300,LongYuan,LongYuan,LongYuan,2012/03,Production,19/02/2018
+18556,Asia,CN,China,,Offshore,,Donghai Bridge Offshore Wind Farm Phase II (Extension) project,,30.77,121.99,-10,No,Yes (8 km),Shanghai Electric,W3600/116,,1,3600,China Datang Corporation renewable Power Co,,CGN Wind Energy Ltd,2011,Production,19/02/2018
+18557,Asia,CN,China,,Offshore,,Donghai Bridge Offshore Wind Farm Phase II (Extension) project,,30.77,121.99,-10,No,Yes (8 km),Sinovel,SL 5000/128,,1,5000,China Datang Corporation renewable Power Co,,CGN Wind Energy Ltd,2011,Production,19/02/2018
+18559,Asia,CN,China,,Offshore,,Huaneng Rongcheng Power Project,,37.4,122.4,0,No,Yes,Sinovel,SL 3000/105,80,34,102000,,,,2014,Production,2/12/2014
+18561,Asia,CN,China,,Offshore,,Beibu Gulf offshore wind power project,Zhuhai Guishan,21.4,109.2,-1,No,Yes,Guangdong Mingyang,SCD3000/100,,66,198000,,,,,Approved,16/01/2017
+18562,Asia,CN,China,,Offshore,,Cangzhou Offshore Wind Farm,Phase 5,38.5,117.8,-3,No,Yes,,,,,300000,,,,,Planned,7/1/2016
+18563,Asia,CN,China,,Offshore,,Guangdong Yudean - Xuwen offshore wind power demonstration project,,20.636,110.568,-5,No,Yes (10 km),Guangdong Mingyang,SCD3000/100,,16,48000,,,,,Approved,7/1/2016
+18564,Asia,CN,China,,Offshore,,Huadian Yuhuan Offshore Wind Farm - Phase 1,,28.18,121.55,-5,No,Yes (11 km),,,,,100000,Huadian Power,,Huadian Power,,Approved,7/1/2016
+18565,Asia,CN,China,,Offshore,,Jiangsu Dongtai Offshore Wind Farm Concession Project,,32.92,121.18,-5,No,Yes (25 km),Sinovel,SL 3600/116,90,56,201600,,,,,Approved,29/06/2015
+18566,Asia,CN,China,,Offshore,,CGN Rudong offshore demonstration project,,32.38,121.67,-10,No,Yes (25 km),Siemens,SWT-4.0-130,,38,152000,CGN Wind Energy Ltd,,CGN Wind Energy Ltd/CLP Group,2016/09,Production,19/02/2018
+18567,Asia,CN,China,,Offshore,,Cangzhou Offshore Wind Farm,Phase 4,38.5,117.8,-3,No,Yes,,,,,200000,,,,,Planned,7/1/2016
+18568,Europe,DE,Germany,,Offshore,,Riffgat,,53.69,6.48,-20,No,Yes (40 km),Siemens,SWT-3.6-120,90,30,108000,,EWE,Enova/EWE,2014/03,Production,13/02/2018
+18570,Europe,DE,Germany,,Offshore,,Borkum Riffgrund I,,53.967,6.554,-25,No,Yes (55 km),Siemens,SWT-4.0-120,,78,312000,Orsted/PNE,Orsted,Orsted/Kirkbi/Oticon,2015/10,Production,13/02/2018
+18571,Europe,DE,Germany,,Offshore,,Borkum Riffgrund II,,53.956,6.496,-25,No,Yes (57 km),MHI Vestas Offshore,V164/8000,,56,448000,Orsted/PNE,,Orsted/,,Construction,13/02/2018
+18573,Europe,DE,Germany,,Offshore,,EnBW Baltic 2,,55.13,2.,-30,No,Yes (33 km),Siemens,SWT-3.6-120,78,80,288000,EnBW Baltic 2,EnBW Baltic 2,EnBW Energie/,2015/10,Production,5/3/2018
+18574,Europe,DE,Germany,,Offshore,,EnBW Hohe See,,54.4,6.3,-35,No,Yes (95 km),Siemens,SWT-7.0-154,,71,497000,EnBW Energie/Siemens,EnBW Energie,EnBW Energie/Enbridge,,Approved,13/02/2018
+18575,Europe,DE,Germany,,Offshore,,Adlergrund 500,,54.818,14.95,-35,No,Yes (40 km),,,,20,72000,Adlergrund 500 GmbH,,,,Planned,13/02/2018
+18576,Europe,DE,Germany,,Offshore,,Borkum Riffgrund West,,54.47,6.234,-30,No,Yes (65 km),,,,45,270000,Orsted/PNE,,Orsted,,Approved,13/02/2018
+18582,Europe,DE,Germany,,Offshore,,Ostseeschatz,,54.879,13.85,-45,No,Yes (35 km),Areva,,,42,252000,Windreich AG,,Windreich AG,,Planned,13/02/2018
+18583,Europe,DE,Germany,,Offshore,,Wikinger Offshore,,54.834,14.68,-40,No,Yes (40 km),Adwen,AD 5-135,,70,350000,Iberdrola Renewables,Iberdrola Renewables,Iberdrola Renewables,2017/12,Production,13/02/2018
+18587,Asia,KR,South Korea,,Offshore,,Aiguille Flat,,35.2,129.3,-80,No,Yes,Unison,U57,,1,750,Unison,,,,Planned,5/1/2018
+18597,Europe,GR,Greece,,Offshore,,Plaka Keros AG Eirini,,39.92,25.51,-20,No,Yes,,,,135,486000,,,,,Planned,8/2/2018
+18598,Asia,CN,China,,Offshore,,GD Lubei No.3 offshore wind farm,,38.1,119.1,-12,No,Yes,,,,,350000,,,,,Planned,2/12/2014
+18599,Europe,NL,Netherlands,,Offshore,,Eneco Luchterduinen,,52.405,4.162,-20,No,Yes (24 km),Vestas,V112/3000 Offshore,81,43,129000,Eneco,Eneco,Eneco/Mitsubishi,2015/09,Production,23/03/2018
+18600,Europe,NL,Netherlands,,Offshore,,Gemini,,54.4,5.96,-30,No,Yes (75 km),Siemens,SWT-4.0-130,90,150,600000,Van Oord,Northland Power/Siemens/,Northland Power/Siemens/HVC Groep/,2017/04,Production,5/7/2018
+18601,Asia,KR,South Korea,,Offshore,,Taean,,,,,No,Yes,,,,,100000,,,,,Planned,5/1/2018
+18602,Asia,CN,China,,Offshore,,Cangzhou Offshore Wind Farm,Phase 3,38.5,117.8,-3,No,Yes,,,,,300000,,,,,Planned,7/1/2016
+18603,Europe,NL,Netherlands,,Offshore,,Westermeerdijk buitendijks,Windpark Noordoostpolder-Westermeerwind,52.72,5.58,-7,No,Yes (1 km),Siemens,SWT-3.0-108,95,48,144000,Ventolines,,Westermeerwind BV,2016/03,Production,22/03/2018
+18604,Asia,KR,South Korea,,Offshore,,Jeonnam,Sinan - Phase 1,35.4,125.89,-22,No,Yes,,,,,300000,POSCO,,,,Planned,5/1/2018
+18605,Asia,JP,Japan,,Offshore,,Statoil ASA Hitachi Zosen,,38.139,,,No,Yes,,,,,,Statoil/Hitachi,,Statoil/Hitachi,,Planned,16/01/2018
+18606,Asia,JP,Japan,,Offshore,,Noshiro Port,,40.2,139.98,-4,No,Yes (3 km),,,,20,80000,,,,,Planned,16/01/2018
+18607,Asia,JP,Japan,,Offshore,,Yrihonjo,,39.46,140.,-20,No,Yes (4 km),,,,,1000000,,,,,Planned,16/01/2018
+18608,Asia,JP,Japan,,Offshore,,Sumoto City,,,,,No,Yes,,,,,100000,,,,,Planned,16/01/2018
+18609,Asia,JP,Japan,,Offshore,,Goto FOWT,,32.74,129.,-95,No,Yes (10 km),Subaru,Subaru 80/2.0,56,0,0,,,,2013/10,Dismantled,16/01/2018
+18610,Asia,JP,Japan,,Offshore,,Akita Port,,39.76,140.3,196,No,Yes (2 km),,,,13,65000,,,,,Planned,16/01/2018
+18611,Europe,ES,Spain,,Offshore,,Plocan,Plataforma Oceanica de Canarias - Phase 1,28.4,-15.36,-3321,No,Yes (1 km),,,,,5000,Plocan,Plocan,Plocan,,Construction,19/01/2018
+18612,Asia,CN,China,,Offshore,,GD Lubei No.2 offshore wind farm,,38.119,1.,-1579,No,Yes,,,,,,,,,,Planned,7/1/2016
+18613,Europe,ES,Spain,,Offshore,,Nautilus (ES),,43.59,-2.85,-347,No,Yes,,,,,5000,,,,,Planned,19/01/2018
+18614,Asia,CN,China,,Offshore,,Nantong Haian,Phase 2,32.6,121.,-7,No,Yes,,,,,23500,Concord New Energy (China Windpower),,Concord New Energy (China Windpower),,Approved,24/11/2017
+18615,Europe,ES,Spain,,Offshore,,Flocan 5,,27.765,-15.392,-69,No,Yes (5 km),Gamesa,G132/5000,,5,25000,,,,,Planned,19/01/2018
+18616,Europe,ES,Spain,,Offshore,,Elican,,28.4,-15.36,-20,No,Yes (1 km),,,,1,5000,,,,,Planned,19/01/2018
+18618,Europe,NL,Netherlands,,Offshore,,Windpark Fryslân,,53.5,26.,167,No,Yes,,,,89,374000,Ventolines,,Ventolines,,Planned,15/02/2018
+18619,Europe,NL,Netherlands,,Offshore,,2019 Tender I,Hollandse Kust Noord Holland I,52.67,4.27,-24,No,Yes (25 km),,,,,350000,,,,,Planned,15/02/2018
+18620,Europe,NL,Netherlands,,Offshore,,2018 Tender I,Hollandse Kust Zuid Holland III,52.33,4.72,-20,No,Yes (26 km),,,,,350000,,,,,Planned,15/02/2018
+18621,Europe,NL,Netherlands,,Offshore,,2017 Tender I,Hollandse Kust Zuid Holland I,52.33,4.7,-20,No,Yes (26 km),,,,,350000,,,,,Planned,15/02/2018
+18622,Europe,NL,Netherlands,,Offshore,,Borssele I,,51.75,3.6,-7,No,Yes (45 km),Siemens,SWT-8.0-154,,47,376000,Orsted,Orsted,Orsted,,Approved,15/02/2018
+18623,Europe,NL,Netherlands,,Offshore,,2019 Tender II,Hollandse Kust Noord Holland II,52.67,4.27,-24,No,Yes (25 km),,,,,350000,,,,,Planned,15/02/2018
+18624,Europe,NL,Netherlands,,Offshore,,2018 Tender II,Hollandse Kust Zuid Holland IV,52.33,4.72,-20,No,Yes (26 km),,,,,350000,,,,,Planned,15/02/2018
+18625,Europe,NL,Netherlands,,Offshore,,2017 Tender II,Hollandse Kust Zuid Holland II,52.33,4.7,-20,No,Yes (26 km),,,,,350000,,,,,Planned,15/02/2018
+18626,Europe,SE,Sweden,,Offshore,,Trolleboda,,56.3,16.18,-11,No,Yes,,,,30,150000,Vattenfall,,Vattenfall,,Approved,15/01/2018
+18629,Europe,SE,Sweden,,Offshore,,Havsbaserat Testomrade,,58.39,11.7,-60,No,Yes (8 km),,,,,15000,,,,,Planned,15/01/2018
+18630,Europe,SE,Sweden,,Offshore,,Gustav Dahlén 2,,58.51,17.3,-16,No,Yes (21 km),,,,50,,,,,,Planned,15/01/2018
+18631,Europe,SE,Sweden,,Offshore,,Gustav Dahlén 1,,58.65,17.27,-5,No,Yes (9 km),,,,,,,,,,Planned,15/01/2018
+18632,Europe,SE,Sweden,,Offshore,,Fällbadan,,55.5,17.37,-39,No,Yes (24 km),,,,,,Rewind Offshore AB,,Rewind Offshore AB,,Planned,15/01/2018
+18634,Europe,IT,Italy,,Offshore,,Rimini,,44.1,12.6,-7,No,Yes,,,,,40000,4Power,,,,Planned,18/06/2018
+18637,Asia,BD,Bangladesh,,Offshore,,Chittagong - Givent DLC Green Energy,,22.1,91.8,-15,No,Yes,,,,,400000,,,,,Planned,6/6/2018
+18639,Europe,NO,Norway,,Offshore,,Marine Energy Test Centre,Karmoy,59.156,5.78,-233,No,Yes (4 km),,,,4,20000,METCentre,METCentre,,,Approved,8/6/2018
+18641,Europe,FI,Finland,,Offshore,,Siipyyn,,62.74,21.105,-20,No,Yes (8 km),,,,80,400000,Suomen Merituuli,,,,Planned,12/6/2018
+18644,Asia,CN,China,,Offshore,,Tianjin Dagang Binhai 33MW Intertidial wind farm,,38.76,117.59,-9,No,Yes,Guodian United Power,UP86,,22,33000,LongYuan,,LongYuan,2014/05,Production,16/01/2017
+18645,Asia,CN,China,,Offshore,,Cangzhou Offshore Wind Farm,Phase 2,38.5,117.8,-3,No,Yes,,,,,300000,,,,,Planned,7/1/2016
+18646,Europe,DE,Germany,,Offshore,,Nordsee One Offshore,,53.98,6.81,-30,No,Yes (40 km),Senvion,6M126,100,54,332100,Nordsee One,Nordsee One,RWE/Northland Power,2017/12,Production,5/7/2018
+18647,Asia,CN,China,,Offshore,,Fujian Putian Shicheng Yugang Offshore Wind Farm,,25.171,119.475,-10,No,Yes (8 km),,,,40,200000,Fujian Fu Neng Energy Co,,Fujian Fu Neng Energy Co,,Planned,7/1/2016
+18648,Asia,CN,China,,Offshore,,Huaneng and Mingyang,,32.813,121.75,-10,No,Yes (58 km),Guangdong Mingyang,6.0 MW SCD,,50,300000,Huaneng Group,,CGN Wind Energy Ltd,,Approved,7/12/2014
+18660,Asia,TW,Taiwan,,Offshore,,Changhua South,,23.95,120.22,-19,No,Yes,,,,116,154000,Taipower,Taipower,Taipower,,Planned,15/12/2017
+18661,Asia,TW,Taiwan,,Offshore,,Taoyuan-Hsinchu ZoP 3,,24.98,120.98,-8,No,Yes (1 km),,,,,150000,,,WPD/Infravest,,Planned,15/12/2017
+18662,Asia,TW,Taiwan,,Offshore,,Changhua Pilot,,23.99,120.25,-20,No,Yes (7 km),,,,30,110000,Taipower,Taipower,Taipower,,Approved,15/12/2017
+18666,Europe,DE,Germany,,Offshore,,Nordsee Two,,54.32,6.842,-30,No,Yes (48 km),,,100,48,384000,RWE,,RWE/Northland Power,,Approved,5/7/2018
+18667,Asia,TW,Taiwan,,Offshore,,Changhua Offshore Pilot Project,,24.4,120.28,-42,No,Yes,,,,2,16000,Fuhai Wind Farm Corp,,,,Planned,15/12/2017
+18668,Asia,TW,Taiwan,,Offshore,,Fuhai Offshore Windfarm - TGC,,24.3,120.25,-48,No,Yes,,,,28,120000,Fuhai Wind Farm Corp,,Taiwan Generations Corporation,,Planned,23/05/2018
+18671,Asia,TW,Taiwan,,Offshore,,Formosa 1 OWF,Phase I,24.69,120.81,-15,No,Yes (3 km),Siemens,SWT-4.0-120,,2,8000,Swancor,,Macquarie/Orsted/Swancor,2017/04,Production,15/12/2017
+18820,Africa,KE,Kenya,,Offshore,,VR Holding Kenya,,,,,No,Yes,,,,,,VR Holding AB,VR Holding AB,VR Holding AB,,Planned,25/05/2018
+18908,Asia,JP,Japan,,Offshore,,Tsugaru,,41.140,22.,1315,No,Yes,,,,,1000000,,,,,Planned,10/4/2018
+19354,Asia,CN,China,,Offshore,,Jiangsu Rudong 150MW Offshore,Phase II,32.4,121.6,-6,No,Yes,Goldwind,,,21,50000,LongYuan,LongYuan,LongYuan,2012/12,Production,19/02/2018
+19950,Europe,GB,United-Kingdom,,Offshore,,Moray West,,58.188,-2.72,-45,No,Yes (25 km),,,,90,750000,,,EDP Renovaveis/Three Gorges,,Planned,16/02/2018
+19986,America,US,USA,,Offshore,,Block Island Wind Farm,,41.12,-71.52,-26,No,Yes,Alstom Power,Haliade 150,100,5,30000,Acciona Energia,Acciona Energia,Acciona Energia/GE Wind Energy,2017/02,Production,14/02/2018
+21826,Europe,GB,United-Kingdom,,Offshore,,Westermost Rough,,53.805,0.149,-15,No,Yes (10 km),Siemens,SWT-6.0-154,,35,210000,Orsted,Orsted,Orsted/Marubeni/Green Investment Bank,2015/05,Production,16/02/2018
+21851,America,NI,Nicaragua,,Offshore,,Papagayo MG,,,,,No,Yes,,,,20,100000,Grupo TSK,,Proyectos Electricos de Control SA,,Planned,27/09/2014
+22191,Europe,FI,Finland,,Offshore,,Röyttä III,Tornion,65.74,24.22,-2,No,Yes,,,,14,70000,Rajakiiri Oy,Rajakiiri Oy,Rajakiiri Oy,,Planned,12/6/2018
+22193,Europe,FI,Finland,,Offshore,,Kokkolan,Mervento,63.93,22.9,-6,No,Yes,,,,,,,,Mervento,,Planned,12/6/2018
+22197,Europe,FI,Finland,,Offshore,,Ajos 4,,65.6584345999999,24.5514826999999,0,Yes,Yes,Winwind,WWD-3-100,88,0,0,PVO Innopower Oy,,,2008/11,Dismantled,12/6/2018
+22198,Europe,FI,Finland,,Offshore,,Ajos 8-9-10-11,,65.6584345999999,24.5514826999999,0,Yes,Yes,Winwind,WWD-3-100,88,0,0,PVO Innopower Oy,,,2008/12,Dismantled,12/6/2018
+22261,Europe,GB,United-Kingdom,,Offshore,,Walney Extension,,54.87,-3.737,13,No,Yes (20 km),MHI Vestas Offshore,V164/8000,,40,330000,Orsted,Orsted,Orsted/PKA/PFA,,Construction,25/04/2018
+22466,Europe,FR,France,,Offshore,,Oléron,,45.9,-1.75,-42,No,Yes,,,,,500000,WPD,,,,Planned,17/07/2017
+22497,Europe,SE,Sweden,,Offshore,,SeaTwirl 1MW,,58.25,11.3,-26,No,Yes,,,,1,1000,SeaTwirl AB,SeaTwirl AB,SeaTwirl AB,,Planned,15/01/2018
+22498,Europe,SE,Sweden,,Offshore,,SeaTwirl 3MW,,58.25,11.3,-26,No,Yes,,,,1,3000,SeaTwirl AB,SeaTwirl AB,SeaTwirl AB,,Planned,15/01/2018
+22501,Asia,JP,Japan,,Offshore,,Fukushima,Forward,37.308,141.262,-100,No,Yes (25 km),Hitachi,HTW5.0-126,105,1,5000,Marubeni/Mitsubishi,Marubeni,Marubeni,2014/12,Production,16/04/2018
+22502,Asia,JP,Japan,,Offshore,,Ibaraki Kashima port South,Phase 1,35.9,140.73,-10,No,Yes (1 km),,,,25,125000,Marubeni,,Marubeni,,Planned,2/1/2017
+22503,Asia,JP,Japan,,Offshore,,Windfloat Japan - WFJ,,38.139,,,No,Yes,,,,1,6000,,,,,Planned,16/01/2018
+22504,Asia,JP,Japan,,Offshore,,Wakkanai Port,,45.4,141.7,-10,No,Yes,,,,,15000,Eurus Energy,,,,Planned,16/01/2018
+22505,Asia,JP,Japan,,Offshore,,Stuttsu Port,,42.8,140.3,0,No,Yes (2 km),,,,,,,,Niseko Town,,Planned,16/01/2018
+22506,Asia,JP,Japan,,Offshore,,Satuma Sendai City,,31.8,129.9,-16,No,Yes (30 km),,,,,,,,Satuma Sendai City,,Planned,16/01/2018
+22507,Asia,JP,Japan,,Offshore,,Sakata Port,,38.95,139.8,-10,No,Yes (2 km),,,,,15000,,,Yamagata Prefecture,,Planned,16/01/2018
+22508,Asia,JP,Japan,,Offshore,,Murakami Ifuwane,,38.2,139.4,-20,No,Yes,Vestas,,,15,45000,,,,,Planned,16/01/2018
+22509,Asia,JP,Japan,,Offshore,,Goto Sakiyama Oki oki Huangdo,,32.7,128.9,14,No,Yes,,,,,22000,,,,,Planned,16/01/2018
+22510,Asia,JP,Japan,,Offshore,,Hirono,,40.4,141.8,-38,No,Yes,,,,10,200000,,,Hirono,,Planned,16/01/2018
+22511,Asia,JP,Japan,,Offshore,,Iwanai Town,,,,,No,Yes,,,,,,,,Niseko Town,,Planned,16/01/2018
+22512,Asia,JP,Japan,,Offshore,,Izumo,,35.5,132.7,-93,No,Yes,,,,,,,,Izumo City,,Planned,16/01/2018
+22751,Europe,DE,Germany,,Offshore,,Sandbank,,55.19,6.86,-30,No,Yes (95 km),Siemens,SWT-4.0-130,95,72,288000,Vattenfall,Vattenfall,Vattenfall/Stadtwerke München,2017/01,Production,13/02/2018
+22843,Europe,DK,Denmark,,Offshore,,Nordre Flint,,55.68,12.82,-5,No,Yes,,,,,200000,,,,,Planned,23/05/2018
+22844,Europe,DK,Denmark,,Offshore,,Aflandshage,,55.52,12.54,-8,No,Yes,,,,,200000,,,,,Planned,23/05/2018
+22845,Europe,DK,Denmark,,Offshore,,Mejlflak,,56.3,10.41,35,No,Yes,,,,,120000,European Energy,European Energy,European Energy,,Planned,23/05/2018
+22847,Europe,DK,Denmark,,Offshore,,Jammerland Bugt,,55.59,11.1,-3,No,Yes (8 km),,,,,240000,European Energy/Boralex,European Energy/Boralex,European Energy/Boralex,,Planned,23/05/2018
+22848,Europe,DK,Denmark,,Offshore,,Omo Syd,,55.6,11.11,-10,No,Yes (11 km),,,,,320000,European Energy/NIBC Bank NV,European Energy/NIBC Bank NV,European Energy/NIBC Bank NV,,Planned,23/05/2018
+22872,Europe,GB,United-Kingdom,,Offshore,,EOWDC,European Offshore Wind Deployment Centre,57.23,-1.99,-25,No,Yes (3 km),MHI Vestas Offshore,V164/8400,120,2,17600,Vattenfall/Technip/Aberdeen Renewable Energy Group,,Vattenfall,,Construction,29/05/2018
+23070,Europe,IE,Ireland,,Offshore,,North Irish Sea Array - Pilot,,53.8,-6.1,-25,No,Yes,,,,,15000,Gaelectric/Oriel Wind Farm,,Gaelectric/Oriel Wind Farm,,Planned,10/1/2018
+23071,Europe,IE,Ireland,,Offshore,,North Irish Sea Array,NISA,53.8,-6.1,-25,No,Yes,,,,,870000,Gaelectric/Oriel Wind Farm,,Gaelectric/Oriel Wind Farm,,Planned,10/1/2018
+23072,Europe,SE,Sweden,,Offshore,,Langgrund,,58.65,17.67,-25,No,Yes (21 km),,,,,,,,,,Planned,15/01/2018
+23073,Europe,SE,Sweden,,Offshore,,Sydkustens Vind,,55.29,13.58,-28,No,Yes (12 km),,,,,500000,,,,,Planned,15/01/2018
+23074,Europe,SE,Sweden,,Offshore,,Utposten,,60.94,17.36,-13,No,Yes (8 km),,,,,,,,,,Planned,15/01/2018
+23075,Europe,SE,Sweden,,Offshore,,Kattegatt Offshore,,56.83,12.34,-24,No,Yes (9 km),,,,,282000,,,Agrivind AB,,Approved,15/01/2018
+23082,Asia,JP,Japan,,Offshore,,Eurus Akita Port,Akitako,39.75,140.5,-5,Yes,Yes (0.5 km),Siemens,SWT-3.0-101,80,6,18000,Eurus Energy,Eurus Energy,Eurus Energy,2015/02,Production,16/01/2018
+23083,Asia,JP,Japan,,Offshore,,Mitane,Oga Wakami,40.11,139.93,17,No,Yes,,,,91,455000,,,,,Planned,16/01/2018
+23084,Europe,ES,Spain,,Offshore,,Hexicon-WunderEnergy,,27.7,-15.5,-958,No,Yes,,,,,,,,,,Planned,19/01/2018
+23126,Europe,DE,Germany,,Offshore,,Nordergründe,,53.84,8.17,-10,No,Yes (16 km),Senvion,6M126,84,18,110700,WPD,WPD,WPD/Gothaer Group/John Laing,2017/01,Production,25/06/2018
+23141,Europe,DE,Germany,,Offshore,,Gicon SOF,,54.1,6.5,-34,No,Yes,Siemens,SWT-2.3-93,,1,2300,,,,,Approved,13/02/2018
+23170,Asia,CN,China,,Offshore,,Three Gorges Leizhou Dongli,,20.8,110.4,0,No,Yes,,,,,150000,Three Gorges,Three Gorges,Three Gorges,,Planned,6/1/2016
+23171,Asia,CN,China,,Offshore,,Shanghai Lingang (Phase 2),,31.122,1.,569,No,Yes,Shanghai Electric,W3600/122,90,28,100800,,,Huaneng Group/Shenergy Group/,2016/12,Production,19/02/2018
+23205,Asia,CN,China,,Offshore,,Nantong Haian Xiehe,,32.6,120.9,2,No,Yes,,,,,23500,,,,,Planned,6/1/2016
+23206,Asia,CN,China,,Offshore,,CPI Binhai North H2,,34.54,120.37,-12,No,Yes,,,,,400000,China Power Investment Corporation,China Power Investment Corporation,China Power Investment Corporation,,Construction,20/02/2018
+23207,Asia,CN,China,,Offshore,,Wenling 1,,28.4,121.7,0,No,Yes,,,,,150000,,,LongYuan,,Approved,6/1/2016
+23208,Asia,CN,China,,Offshore,,Huadian Caofeidian Offshore Wind Farm,Phase 1,39.1,118.7,-1,No,Yes,,,,,100000,Huadian Power,Huadian Power,Huadian Power,,Approved,22/02/2018
+23212,Asia,CN,China,,Offshore,,HCIG Tangshan Offshore Wind Farm Phase 2,,38.9,118.8,-20,No,Yes (20 km),,,,67,201000,Hebei Construction Investment,Hebei Construction Investment,Hebei Construction Investment,,Approved,6/1/2016
+23213,Asia,CN,China,,Offshore,,Guohua Jiangsu Zhugen Sand,,33.121,5.,301,No,Yes (40 km),,,,67,200000,,,,,Approved,22/02/2018
+23216,Asia,CN,China,,Offshore,,Fujian Pingtan Datang Changjiangao,,25.119,2.,258,No,Yes,,,,37,185000,China Datang Corporation renewable Power Co,China Datang Corporation renewable Power Co,China Datang Corporation renewable Power Co,,Approved,21/02/2018
+23217,Asia,CN,China,,Offshore,,Dafeng H3,,33.11,121.19,-8,No,Yes,,,,,300000,Shangai Electric Power Corporation,Shangai Electric Power Corporation,Shangai Electric Power Corporation,,Approved,6/1/2016
+23220,Asia,CN,China,,Offshore,,CGN Yangjiang Nanpeng Island Offshore Wind farm,,21.5,112.2,-21,No,Yes,,,,,400000,CGN Wind Energy Ltd,CGN Wind Energy Ltd,CGN Wind Energy Ltd,,Construction,20/02/2018
+23221,Asia,CN,China,,Offshore,,Amber Taizhou 2 Offshore Wind farm,,28.5,121.8,-9,No,Yes,,,,,150000,,,,,Approved,16/01/2017
+23222,Asia,CN,China,,Offshore,,Jiangsu Longyuan Chiang Sand,,32.81,121.52,-10,No,Yes (25 km),Envision,,,75,300000,LongYuan,LongYuan,LongYuan,,Construction,20/02/2018
+23223,Asia,CN,China,,Offshore,,Jiangsu Binhai,,34.24,120.54,-15,No,Yes (22 km),,,,96,300000,China Datang Corporation renewable Power Co,China Datang Corporation renewable Power Co,China Datang Corporation renewable Power Co,,Construction,20/02/2018
+23224,Asia,CN,China,,Offshore,,CPI Binhai North H1,,34.4,120.2,-10,No,Yes (7 km),Siemens,SWT-4.0-130,90,25,100000,China Power Investment Corporation,China Power Investment Corporation,China Power Investment Corporation,2016/06,Production,19/02/2018
+23410,Europe,DK,Denmark,,Offshore,,Lillebælt-Syd (Lillegrund),,55.15,9.82,-21,No,Yes,,,,,160000,Sonderborg Forsyning,Sonderborg Forsyning,Sonderborg Forsyning,,Planned,23/05/2018
+23662,Asia,VN,Vietnam,,Offshore,,Khai-Long - Ca-Mau,Phase 1,8.77,105.29,0,No,Yes,GE Energy,,,50,100000,Cong Ly/Super Wind Energy,Cong Ly/Super Wind Energy,Cong Ly/Super Wind Energy,,Construction,31/05/2018
+23663,Asia,VN,Vietnam,,Offshore,,Khai-Long - Ca-Mau,Phase 2,8.54,104.8,-2,No,Yes,GE Energy,,,50,100000,Cong Ly,Cong Ly,Cong Ly,,Approved,31/05/2018
+23677,Europe,LT,Lithuania,,Offshore,,AVEC-1,,55.87,20.94,-25,No,Yes,,,,,259000,UAB AVEC,UAB AVEC,UAB AVEC,,Planned,2/12/2016
+23678,Europe,LT,Lithuania,,Offshore,,AVEC-2,,55.79,20.49,-46,No,Yes,,,,,266000,UAB AVEC,UAB AVEC,UAB AVEC,,Planned,2/12/2016
+23679,Europe,LT,Lithuania,,Offshore,,Renerga,,55.84,20.49,-43,No,Yes,,,,,300000,Renerga,Renerga,Renerga,,Planned,31/05/2017
+23680,Europe,LT,Lithuania,,Offshore,,Baltic Energy Group,,55.85,20.57,-43,No,Yes,,,,,800000,Baltic Energy Group,,UAB 4energia/Nelja Energia,,Planned,31/05/2017
+23681,Europe,EE,Estonia,,Offshore,,Saare,,,,,No,Yes,,,,100,600000,Saare Wind Energy OU,Saare Wind Energy OU,Saare Wind Energy OU,,Planned,28/05/2018
+23684,Asia,TW,Taiwan,,Offshore,,IDEOL-CSC,,,,,No,Yes,,,,,,Ideol/China Steel Corporation,Ideol/China Steel Corporation,Ideol/China Steel Corporation,,Planned,15/12/2017
+23686,Asia,KR,South Korea,,Offshore,,Southwest Offshore Wind Project,Phase 1 (Test Site),35.4821147,126.308834,-10,No,Yes (12 km),Hyosung,,90,2,10000,KOWP,,,,Construction,7/6/2017
+23695,America,CA,Canada,,Offshore,,Beothuk Energy Inc - New Brunswick,,47.6,-64.7,-18,No,Yes,,,,,500000,Beothuk Energy Inc/,,Beothuk Energy Inc/PensionDanmark,,Planned,11/6/2018
+23696,America,CA,Canada,,Offshore,,Beothuk Energy Inc - Prince Edward Island,,46.6,-62.9,-46,No,Yes,,,,,200000,Beothuk Energy Inc/,,Beothuk Energy Inc/PensionDanmark,,Planned,11/6/2018
+23697,America,CA,Canada,,Offshore,,Beothuk Energy Inc - Yarmouth,,43.46,-63.31,-203,No,Yes,,,,,1000000,Beothuk Energy Inc/,,Beothuk Energy Inc/PensionDanmark,,Planned,11/6/2018
+23698,America,CA,Canada,,Offshore,,Beothuk Energy Inc - St Georges Bay,,48.4,-58.8,-46,No,Yes,,,,25,180000,Beothuk Energy Inc/,,Beothuk Energy Inc/PensionDanmark,,Planned,11/6/2018
+23742,Asia,JP,Japan,,Offshore,,Kitakyushu Port,,33.97,130.74,-10,No,Yes (5 km),,,,44,228800,,,,,Planned,16/01/2018
+23743,Asia,JP,Japan,,Offshore,,Kitakyushu,,34.1,130.7,-58,No,Yes,,,,2,7450,,,,,Approved,16/01/2018
+24013,Asia,VN,Vietnam,,Offshore,,Khai-Long - Ca-Mau,Phase 3,8.55,104.7,-2,No,Yes,GE Energy,,,50,100000,Cong Ly,Cong Ly,Cong Ly,,Approved,31/05/2018
+24014,Asia,VN,Vietnam,,Offshore,,Ben Tre 8,,10.2,106.77,0,No,Yes,,,,,80000,,,,,Planned,31/05/2018
+24015,Asia,VN,Vietnam,,Offshore,,Truong-Long-Hoa,V1-1,9.6,106.57,0,No,Yes,,,,24,48000,Woojin Construction,,Woojin Construction,,Construction,31/05/2018
+24016,Asia,VN,Vietnam,,Offshore,,Bac Lieu Province Wind Power Plant,Phase 4,9.2229145,105.7951585,0,No,Yes,,,,,158000,Cong Ly,Cong Ly,Cong Ly,,Planned,31/05/2018
+24017,Asia,VN,Vietnam,,Offshore,,Binh-Dai-1,Phase 1 - Ben Tre 10,10.1,106.8,0,No,Yes,,,,2,6000,Gia Lai Electricity Joint Stock Company,Gia Lai Electricity Joint Stock Company,Gia Lai Electricity Joint Stock Company,,Construction,31/05/2018
+24018,Asia,VN,Vietnam,,Offshore,,Binh-Dai-1,Phase 2 - Ben Tre 10,10.1,106.8,0,No,Yes,,,,12,24000,Gia Lai Electricity Joint Stock Company,Gia Lai Electricity Joint Stock Company,Gia Lai Electricity Joint Stock Company,,Approved,31/05/2018
+24019,Asia,VN,Vietnam,,Offshore,,Dong-Hai-I,Phase 1,9.1,105.6,-4,No,Yes,,,,,50000,Vatenergy,Vatenergy,Vatenergy,,Planned,31/05/2018
+24020,Asia,VN,Vietnam,,Offshore,,Dong-Hai-I,Phase 2,9.1,105.6,-4,No,Yes,,,,,200000,Vatenergy,Vatenergy,Vatenergy/Woojin Construction,,Planned,31/05/2018
+24021,Asia,VN,Vietnam,,Offshore,,Dong-Hai III,,,,,No,Yes,,,,,38800,,,,,Planned,31/05/2018
+24022,Asia,VN,Vietnam,,Offshore,,Dong-Hai II,,9.9,105.56,2,No,Yes,,,,,250000,,,,,Planned,31/05/2018
+24032,Europe,PL,Poland,,Offshore,,A-Wind,,55.5,17.84,-35,No,Yes (25 km),,,,90,450000,Energetika Polska,,Energetika Polska,,Planned,1/6/2018
+24033,Europe,PL,Poland,,Offshore,,Baltic Power,,55.5,17.65,-40,No,Yes (28 km),,,,,1200000,Baltic Power,,Baltic Power,,Planned,1/6/2018
+24034,Europe,PL,Poland,,Offshore,,Baltyk Polnocny,Phase 1,55.52,17.26,-30,No,Yes (85 km),,,,190,1140000,Polenergia,,Polenergia,,Planned,1/6/2018
+24035,Europe,PL,Poland,,Offshore,,Baltyk Polnocny,Phase 2,55.51,17.38,-25,No,Yes (80 km),,,,70,420000,Polenergia,,Polenergia,,Planned,1/6/2018
+24037,Europe,PL,Poland,,Offshore,,B-Wind,,55.6,18.8,-50,No,Yes (25 km),,,,,200000,,,,,Planned,1/6/2018
+24038,Europe,PL,Poland,,Offshore,,C-Wind,,55.8,17.95,-45,No,Yes (30 km),,,,,200000,,,,,Planned,1/6/2018
+24044,Asia,TW,Taiwan,,Offshore,,Penghu,,23.59,119.7,-8,No,Yes,,,,40,150000,Taipower,Taipower,Taipower,,Planned,15/12/2017
+24045,Asia,TW,Taiwan,,Offshore,,Taihai Ttaoyuan,W1N,25.1,120.91,-90,No,Yes (12 km),,,,,500000,Eolfi Greater China,Eolfi Greater China,Eolfi Greater China,,Planned,15/12/2017
+24046,Asia,TW,Taiwan,,Offshore,,Yunlin,,23.6,120.3,9,No,Yes,,,,,750000,,,WPD/Infravest,,Planned,15/12/2017
+24047,Asia,TW,Taiwan,,Offshore,,Guanyin ZoP 2,,25.9,121.9,-113,No,Yes (3 km),,,,,363000,,,WPD/Infravest,,Planned,15/12/2017
+24051,Asia,KR,South Korea,,Offshore,,Southwest Offshore Wind Project,Phase 1 (Test Site),35.4821147,126.308834,-10,No,Yes (12 km),Doosan,WinDS3000/134,90,13,39000,KOWP,,KOSEP/KEPCO/,,Construction,5/1/2018
+24060,Asia,IN,India,,Offshore,,Gujarat - Flowocean,,20.8,69.9,-54,No,Yes,,,,,,,,Flowocean AB,,Planned,18/06/2018
+24061,Asia,IN,India,,Offshore,,Tamil Nadu - Flowocean,,9.1,79.,-9,No,Yes,,,,,,,,Flowocean AB,,Planned,18/06/2018
+24062,Europe,NO,Norway,,Offshore,,Havvinddemo,,63.7,,,No,Yes,,,,,,,,,,Planned,8/6/2018
+24065,America,CA,Canada,,Offshore,,Beothuk Energy Inc - St Ann’s Bay,,46.4,-60.1,-56,No,Yes,,,,,500000,Beothuk Energy Inc/,,Beothuk Energy Inc/PensionDanmark,,Planned,11/6/2018
+24094,Europe,SE,Sweden,,Offshore,,Marviken,,58.55,16.86,-10,No,Yes (1 km),,,,,50000,Wind4shore,,,,Planned,15/01/2018
+24111,Asia,JP,Japan,,Offshore,,Sakiyama,,32.67,128.93,-71,No,Yes,Subaru,Subaru 80/2.0,56,1,2000,,,,2016/03,Production,16/01/2018
+24139,Europe,DE,Germany,,Offshore,,Trianel Borkum II,,54.5,6.47,-30,No,Yes (50 km),Senvion,6.2M152,,32,196800,Trianel GmbH,,Trianel GmbH/EWE/,,Approved,13/02/2018
+24152,Europe,FR,France,,Offshore,,Provence Grand Large,Faraman,43.18,4.81,-102,No,Yes,Siemens,SWT-8.0-154,,3,24000,,,EDF-EN,,Planned,7/2/2018
+24153,Europe,FR,France,,Offshore,,Gruissan,EolMed,43.4,3.36,23,No,Yes,Senvion,6.2M152,,4,24600,,,Quadran,,Planned,7/2/2018
+24154,Europe,FR,France,,Offshore,,Golfe du Lion,Leuczte,42.81,3.27,-79,No,Yes,GE Energy,Haliade 150,,4,24000,,,Engie/EDP Renovaveis/Caisse des Dépôts,,Planned,7/2/2018
+24793,Asia,VN,Vietnam,,Offshore,,Ben Tre 7,,9.97,106.7,-1,No,Yes,,,,,110000,Woojin Construction,,Woojin Construction,,Approved,31/05/2018
+24794,Asia,VN,Vietnam,,Offshore,,Dong-Hai,V1-4,9.51,106.4,-1,No,Yes,,,,,48300,,,Unison/,,Approved,31/05/2018
+24795,Asia,VN,Vietnam,,Offshore,,Ben Tre 2,Phase 1,9.83,106.71,-1,No,Yes,,,,,30000,Nexif Energy,Nexif Energy,Nexif Energy,,Planned,31/05/2018
+24796,Asia,VN,Vietnam,,Offshore,,Ben Tre 2,Phases 2-3,,,,No,Yes,,,,,,,,,,Planned,31/05/2018
+24797,Asia,VN,Vietnam,,Offshore,,Soc Trang 1,Phase 1,9.2,105.9,-5,No,Yes,,,,,30000,Cong Ly/Super Wind Energy,Cong Ly/Super Wind Energy,Cong Ly/Super Wind Energy,,Construction,31/05/2018
+24798,Asia,VN,Vietnam,,Offshore,,Soc Trang 1,,9.2,105.9,-5,No,Yes,,,,,30000,Cong Ly,Cong Ly,Cong Ly,,Planned,31/05/2018
+24801,Europe,PL,Poland,,Offshore,,Aegir 4,,54.5,15.1,-31,No,Yes,,,,,,ENERGA SA,,ENERGA SA,,Planned,1/6/2018
+24802,Europe,PL,Poland,,Offshore,,FEW Baltic II,,55.9,16.64,-45,No,Yes (55 km),,,,,350000,Baltic Trade and Invest,,Baltic Trade and Invest,,Planned,1/6/2018
+24803,Europe,PL,Poland,,Offshore,,Baltex 2,,54.95,16.19,-50,No,Yes (50 km),,,,,,Baltex,,Baltex,,Planned,1/6/2018
+24804,Europe,PL,Poland,,Offshore,,Baltex 5,,55.6,17.67,-40,No,Yes (90 km),,,,,,Baltex,,Baltex,,Planned,1/6/2018
+24805,Europe,PL,Poland,,Offshore,,Polenergia Baltyk II,Phase 1,55.8,16.88,-30,No,Yes (40 km),,,,100,600000,Polenergia,,Polenergia/Equinor ASA,,Approved,1/6/2018
+24806,Europe,PL,Poland,,Offshore,,Polenergia Baltyk II,Phase 2,55.8,16.88,-30,No,Yes (40 km),,,,100,600000,Polenergia,,Polenergia/Equinor ASA,,Approved,1/6/2018
+24807,Europe,PL,Poland,,Offshore,,Polenergia Baltyk III,Phase 1,54.99,17.36,-30,No,Yes (30 km),,,,100,600000,Polenergia,,Polenergia/Equinor ASA,,Approved,1/6/2018
+24808,Europe,PL,Poland,,Offshore,,Polenergia Baltyk III,Phase 2,54.99,17.36,-30,No,Yes (30 km),,,,100,600000,Polenergia,,Polenergia/Equinor ASA,,Approved,1/6/2018
+24839,Asia,TW,Taiwan,,Offshore,,Changhua West,,23.99,120.2,-35,No,Yes (10 km),,,,,456000,,,Taiwan Generations Corporation/PensionDanmark,,Planned,15/12/2017
+24890,Asia,KR,South Korea,,Offshore,,Jeonnam,Sinan - Phase 2,35.4,125.89,-22,No,Yes,,,,,200000,POSCO,,,,Planned,5/1/2018
+24891,Asia,KR,South Korea,,Offshore,,Handong Pyeongdae,,,,,No,Yes,,,,,105000,Jeju Energy Corporation,Jeju Energy Corporation,Jeju Energy Corporation,,Planned,5/1/2018
+24892,Asia,KR,South Korea,,Offshore,,Pyeoson,,,,,No,Yes,,,,,135000,Jeju Energy Corporation,Jeju Energy Corporation,Jeju Energy Corporation,,Planned,5/1/2018
+24893,Asia,KR,South Korea,,Offshore,,Woljeong-Haengwon,,,,,No,Yes,,,,,125000,Jeju Energy Corporation,Jeju Energy Corporation,Jeju Energy Corporation,,Planned,5/1/2018
+24894,Asia,KR,South Korea,,Offshore,,Gyeongsangnam-do,,,,,No,Yes,,,,,510000,,,,,Planned,5/1/2018
+24895,Asia,KR,South Korea,,Offshore,,Incheon,,,,,No,Yes,,,,,97500,,,,,Planned,5/1/2018
+24896,Asia,KR,South Korea,,Offshore,,Sinan-Hanwha EC,,34.48,125.92,-13,No,Yes,,,,,400000,,,,,Planned,5/1/2018
+24965,Europe,IE,Ireland,,Offshore,,Galway Bay Marine and-Renewable Energy Test Site,,53.23,-9.26,-1,No,Yes,,,,3,,,,,,Approved,10/1/2018
+24966,Europe,IE,Ireland,,Offshore,,Gaelectric-Ideol,,,,,No,Yes,,,,,30000,,,Gaelectric/Ideol,,Planned,10/1/2018
+24967,Europe,BE,Belgium,,Offshore,,Poseidon P60,,,,,No,Yes,,,,1,2300,Floating Power Plant,Floating Power Plant,Floating Power Plant,,Planned,12/1/2018
+25025,Europe,GB,United-Kingdom,,Offshore,,Floating Power Plant Katanes,,,,,No,Yes,,,,,224000,,,,,Planned,16/02/2018
+25026,Europe,GB,United-Kingdom,,Offshore,,Ideol-Atlantis Energy Project 1,,,,,No,Yes,,,,,100000,Ideol/Atlantis Energy,,Ideol/Atlantis Energy,,Planned,3/4/2018
+26339,Africa,TZ,Tanzania,,Offshore,,VR Holding Tanzania,,,,,No,Yes,,,,,,VR Holding AB,VR Holding AB,VR Holding AB,,Planned,25/05/2018
+26340,America,JM,Jamaica,,Offshore,,Petroleum Corporation of Jamaica offshore wind farm,,,,,No,Yes,,,,,,Petroleum Corporation of Jamaica,Petroleum Corporation of Jamaica,Petroleum Corporation of Jamaica,,Planned,28/05/2018
+26470,Asia,VN,Vietnam,,Offshore,,Soc Trang 1,,9.2,105.9,-5,No,Yes,,,,,38000,Cong Ly,Cong Ly,Cong Ly,,Planned,31/05/2018
+26471,Asia,VN,Vietnam,,Offshore,,Phu-Cuong,,9.3,106.4,-19,No,Yes,,,,,200000,,,,,Planned,31/05/2018
+26472,Asia,VN,Vietnam,,Offshore,,Phu-Cuong,,9.3,106.16,-1,No,Yes,,,,,600000,,,,,Planned,31/05/2018
+26594,America,BR,Brazil,,Offshore,,Paracuru Campo,,,,,No,Yes,,,,,9500,Petrobras,Petrobras,Petrobras,,Planned,14/06/2018
+26823,Asia,CN,China,,Offshore,,Huadian Caofeidian Offshore Wind Farm,Phase 2,39.1,118.7,-6,No,Yes,,,,,100000,Huadian Power,Huadian Power,Huadian Power,,Approved,22/02/2018
